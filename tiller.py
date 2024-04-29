@@ -4,33 +4,43 @@ import tkinter.messagebox as messagebox
 import os
 
 TAX_RATE = 0.13
-item_dict = {}
+master_item_dict = {}
 
-def button_clicked(button_number):
-    selected_item = f"Item {button_number}"
-    selected_cost = 10 * button_number
-    add_item(selected_item, selected_cost)
+def initialize_master_item_dict(filename):
+    items_list = []
+    with open(filename, "r") as file:
+        for line in file:
+            item_code, item_name, item_cost = line.strip().split(", ")
+            master_item_dict[item_code] = {"name": item_name, "cost": float(item_cost)}
+            items_list.append(item_code)
+            if len(items_list) == 4:
+                break
+    return items_list
 
-def search():
-    searched_code = search_entry.get()
-    if searched_code in item_dict:
-        selected_item = searched_code
-        selected_cost = item_dict[searched_code]
-        add_item(selected_item, selected_cost)
+def button_clicked(item_code):
+    if item_code in master_item_dict:
+        add_item(item_code)
     else:
         messagebox.showerror("Item Not Found", "Item code not found")
 
-def add_item(item, cost):
+def search():
+    searched_code = search_entry.get()
+    if searched_code in master_item_dict:
+        add_item(searched_code)
+    else:
+        messagebox.showerror("Item Not Found", "Item code not found")
+
+def add_item(item_code):
+    item_info = master_item_dict[item_code]
     for child in tree.get_children():
-        if tree.item(child, "values")[1] == item:
+        if tree.item(child, "values")[1] == item_info["name"]:
             quantity = int(tree.item(child, "values")[2]) + 1
-            total_cost = cost * quantity
-            tree.item(child, values=(tree.item(child, "values")[0], item, quantity, cost, total_cost))
+            total_cost = item_info["cost"] * quantity
+            tree.item(child, values=(tree.item(child, "values")[0], item_info["name"], quantity, item_info["cost"], total_cost))
             calculate_order_totals()
             return
     line_num = len(tree.get_children()) + 1
-    tree.insert("", "end", values=(line_num, item, 1, cost, cost))
-    item_dict[line_num] = cost
+    tree.insert("", "end", values=(line_num, item_info["name"], 1, item_info["cost"], item_info["cost"]))
     calculate_order_totals()
 
 def remove_item():
@@ -39,7 +49,6 @@ def remove_item():
         line_num = int(tree.item(child, "values")[0])
         if line_num == selected_line:
             tree.delete(child)
-            del item_dict[line_num]
     calculate_order_totals()
 
 def calculate_order_totals():
@@ -51,22 +60,6 @@ def calculate_order_totals():
     subtotal_label.config(text=f"Order Subtotal: ${subtotal:.2f}")
     total_label.config(text=f"Order Total (incl. 13% tax): ${total:.2f}")
 
-def load_items_from_file(filename):
-    items_list = []
-    with open(filename, "r") as file:
-        for line in file:
-            item_code, item_name, item_cost = line.strip().split(", ")
-            items_list.append((item_code, item_name, item_cost))
-            if len(items_list) == 4:
-                break
-
-    for i, (item_code, item_name, item_cost) in enumerate(items_list):
-        button_text = f"{item_name}\n${item_cost}"
-        button_func = lambda code=item_code, cost=float(item_cost): add_item(code, cost)
-        buttons[i].config(text=button_text, command=button_func)
-
-
-
 root = tk.Tk()
 root.title("Resizable Tkinter App")
 
@@ -74,25 +67,20 @@ root.title("Resizable Tkinter App")
 parent_frame = tk.Frame(root)
 parent_frame.grid(row=0, column=0, sticky="nsew")
 
-# Rest of your GUI setup code...
-
-
+# Initialize master item dictionary and get the first four items
+first_four_items = initialize_master_item_dict(os.getcwd() + "/items.txt")
 
 # Create frame for buttons
 buttons_frame = tk.Frame(parent_frame)
 buttons_frame.grid(row=0, column=0, sticky="nsew")
 
-button1 = tk.Button(buttons_frame, text="Button 1", command=lambda: button_clicked(1))
-button1.grid(row=0, column=0, sticky="nsew")
-
-button2 = tk.Button(buttons_frame, text="Button 2", command=lambda: button_clicked(2))
-button2.grid(row=0, column=1, sticky="nsew")
-
-button3 = tk.Button(buttons_frame, text="Button 3", command=lambda: button_clicked(3))
-button3.grid(row=1, column=0, sticky="nsew")
-
-button4 = tk.Button(buttons_frame, text="Button 4", command=lambda: button_clicked(4))
-button4.grid(row=1, column=1, sticky="nsew")
+# Create buttons with first four items
+buttons = []
+for i, item_code in enumerate(first_four_items):
+    item_info = master_item_dict[item_code]
+    button = tk.Button(buttons_frame, text=item_info["name"], command=lambda code=item_code: button_clicked(code))
+    button.grid(row=i//2, column=i%2, sticky="nsew")
+    buttons.append(button)
 
 # Create frame for search bar
 search_frame = tk.Frame(buttons_frame)
@@ -178,8 +166,5 @@ min_width = tree_frame.winfo_reqwidth()
 tree_frame.grid_propagate(0)
 tree_frame.config(width=min_width)
 
-# Load items from file
-buttons = [button1, button2, button3, button4]
-load_items_from_file(os.getcwd() + "\items.txt")
 
 root.mainloop()
