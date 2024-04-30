@@ -124,9 +124,19 @@ remove_button.grid(row=0, column=0, sticky="nsew", padx=10)
 line_number_entry = tk.Entry(remove_frame, width=5)
 line_number_entry.grid(row=0, column=1, sticky="nsew", padx=5)
 
+# Create frame for other pricelists
+pricelist_search_frame = tk.Frame(buttons_frame)
+pricelist_search_frame.grid(row=4, column=0, columnspan=2, sticky="nsew")
+
+pricelist_search_entry = tk.Entry(pricelist_search_frame, width=5)
+pricelist_search_entry.grid(row=0, column=1, sticky="nsew", padx=5)
+
+pricelist_search_button = tk.Button(pricelist_search_frame, text="Pricelist", command=lambda code=pricelist_search_entry.get() : selectpricelist(code))
+pricelist_search_button.grid(row=0, column=0, sticky="nsew", padx=10)
+
 # Create frame for pricelist selection
 pricelist_frame = tk.Frame(buttons_frame)
-pricelist_frame.grid(row=4, column=0, columnspan=2, sticky="nsew")
+pricelist_frame.grid(row=5, column=0, columnspan=2, sticky="nsew")
 
 pricelist_button1 = tk.Button(pricelist_frame, text="LEG", relief="sunken", padx=20)
 pricelist_button1.grid(row=0, column=0, sticky="nsew")
@@ -147,6 +157,12 @@ def selectpricelist(pricelist: str):
         selection = "BACPKG"
         pricelist_button1.config(relief="raised")
         pricelist_button2.config(relief="sunken")
+    else:
+        cwd = os.getcwd()
+        for pricelistfile in os.listdir(cwd + "\pricelists"):
+            pricelist = pricelistfile.replace(".txt", "")
+        pricelist_button1.config(relief="raised")
+        pricelist_button2.config(relief="raised")
 
 pricelist_button1.config(command=lambda : selectpricelist("LEG"))
 pricelist_button2.config(command=lambda : selectpricelist("BACPKG"))

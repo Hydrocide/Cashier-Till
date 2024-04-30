@@ -1,0 +1,11 @@
+ACMBEGVE, Beefeater w/gold metallic tasselvelvet, 155
+ACMGOBPC, Gown bachelors poly/cotton, 74.81
+ACMGOMA, Gown masters poly/cord, 216.56
+ACMGOMP, Gown masters polyester, 177.19
+ACMGOMPV, Gown masters poly/viscose, 177.19
+ACMGOP6, Gown Ph.d U. OF CALGARY, 311.06
+ACMHO1, Hood Bachelor's, 59.06
+ACMHO2, Hood Master's, 66.91
+ACMHO3, Hood Doctoral, 74.81
+ACMJKCAP, John Knox Cap, 59.06
+ACPMOFE58, M/B blk w/tassel felt 7 1/4, 56.19

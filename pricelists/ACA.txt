@@ -1,0 +1,320 @@
+ACMACUST, No Description, 0
+ACMBEGBE, Beefeater w/gold met. tass.bengaline, 155
+ACMBEGC, Beefeater w/gold met. tass. cloth, 155
+ACMBEGVE, Beefeater w/gold met. tass.velvet, 155
+ACMBESW, Beefeater w/silver met. tass.wool, 144
+ACMBEVE, Beefeater w/tassel velvet, 155
+ACMCAPOXF, Cap Oxford, 68.25
+ACMCO1, Collar one colour, 41.5
+ACMCO2, Collar two colour, 46
+ACMCO3, Collar three colour, 52
+ACMCOR, Academic collar reversible, 29.95
+ACMCREST, Academic Crest, 52.5
+ACMEMBDIG, Embroidery Digitizing, 315
+ACMEP, Epitoge, 60
+ACMEP1, Epitoge style #1, 47.75
+ACMEP2, Epitoge style #2, 47.75
+ACMEP3, Alumni Epitoge - U. of Guelph, 31.5
+ACMGOALUM, Alumni Gown U. of Guelph, 99.75
+ACMGOASSBDGOV, Board of Governor's Gown Assumption U., 420
+ACMGOASSLLD, Hon. Dr. of Laws gown Assumption U., 393.75
+ACMGOB, Gown bachelor, 105
+ACMGOB800, Gown Bachelor #800 Polyester, 175
+ACMGOBA, Gown bachelors corded acetate, 185
+ACMGOBB, Gown bachelors bengaline, 230
+ACMGOBM, Gown Board Member Specified Design, 0
+ACMGOBP, Gown bachelors polyester 800, 131.25
+ACMGOBPC, Gown bachelors poly/cotton, 149
+ACMGOBPS, Gown bachelors poly/suede, 99.75
+ACMGOBPV, Gown bachelors poly/viscose, 131.25
+ACMGOCHAN, Gown Chancellor specified design, 0
+ACMGOCHANTOR, Chancellor Gown U of T, 0
+ACMGOCHMARSH, Gown Chief Marshal specified design, 0
+ACMGOCHRBRD, Gown Chairman of board spec. design, 0
+ACMGODEAN, Gown Dean U of Ottawa, 0
+ACMGODLAV, TOGE DOYEN UNI. LAVAL, 885
+ACMGOF, Gown Fellow specified design, 0
+ACMGOFAC, Gown Faculty specified design, 0
+ACMGOHUMBER, Student Gown Humber College, 131.25
+ACMGOM, Gown Masters, 304.5
+ACMGOMA, Gown masters corded acetate, 210
+ACMGOMARSH, Gown Marshal specified design, 0
+ACMGOMB, Gown masters bengaline, 452
+ACMGOMP, Gown masters polyester #415, 405
+ACMGOMPC, Gown masters poly/cord, 288.75
+ACMGOMPS, Gown masters poly/suede, 183.75
+ACMGOMPV, Gown masters polyester #800, 370
+ACMGOMREG, Gown masters regent, 236.25
+ACMGOMSL, M.S.L. GOWN - PONTIFICAL INST. OF MED.ST, 656.25
+ACMGOP1, Gown Ph.d style #00200, 529.15
+ACMGOP2, Gown Ph.d style #00325, 550
+ACMGOP3, Gown Ph.d style #00350, 588.75
+ACMGOP4, Gown Ph.d style #00375, 597
+ACMGOP5, Gown Ph.d style #00385, 619.5
+ACMGOP6, Gown Ph.d style #00415, 640
+ACMGOP7, Gown Ph.D. style # 00425, 770
+ACMGOP8, Gown Ph.D. style # 00450, 347.5
+ACMGOP9, Gown Ph.D. style #00475, 735
+ACMGOPHDTOR415, Ph.D. gown # 415 U of T (poly/cord), 341.25
+ACMGOPHDTOR700, Ph.D. gown # 700 U of T (poly/viscose), 315
+ACMGOPHDTOR815, Ph.D. gown # 815 U of T (100% wool), 585
+ACMGOPRES, Gown President Specified design, 0
+ACMGOPRIN, Gown Principal specified design, 0
+ACMGOPROV, Gown Provost specified design, 0
+ACMGOPUSA, Gown Ph.d American, 414.75
+ACMGOREG, Gown Registrar specified design, 0
+ACMGOREGRCCO, Gown black regent RCCO, 128.63
+ACMGORLAV, GOWN RECTOR UNI. LAVAL (INCL HOOD), 1125
+ACMGOSPEC, Gown special, 0
+ACMGOULAV, U de Laval Professeur Gown, 498
+ACMGOUPP, Gown undergraduate poly/poplin, 63
+ACMGOVICECHAN, Gown Vice-Chancellor - specified design, 0
+ACMGOVRLA, GOWN VICE RECTOR UNI. LAVAL, 1125
+ACMGOWAR, Gown Warden specified design, 603.75
+ACMH10, Hood academic style #0095, 99.75
+ACMH11, Hood academic style #0100, 105
+ACMH12, Hood academic style #0105, 110.25
+ACMH13, Hood academic style #0120, 126
+ACMHO1, Hood academic style #0053, 76.95
+ACMHO10, Hood academic style #0100, 138.9
+ACMHO11, Hood academic style #0105, 142.15
+ACMHO12, Hood academic style #0110, 155.8
+ACMHO13, Hood academic style #00126, 169.25
+ACMHO14, Hood academic style #00131, 180.25
+ACMHO15, Hood academic style #00137, 192.8
+ACMHO2, Hood academic style #0058, 91.8
+ACMHO3, Hood academic style #0063, 95.15
+ACMHO4, Hood academic style #0068, 99.3
+ACMHO5, Hood academic style #0074, 104.85
+ACMHO6, Hood academic style #0079, 112
+ACMHO7, Hood academic style #0084, 118.75
+ACMHO8, Hood academic style #0089, 125.65
+ACMHO9, Hood academic style #0095, 133.45
+ACMHOASSLLD, Hon. Dr. of Laws Hood Assumption U., 63
+ACMHOBUSA, Hood academic American bachelors, 125.65
+ACMHODC, Diploma collar - Ontario College of Art, 46.2
+ACMHOM1, Academic mini-hood one colour, 18.9
+ACMHOM2, Academic mini-hood two colour, 19.95
+ACMHOMUSA, Hood academic American masters, 146
+ACMHOPHDTOR, Ph.D. Hood U of T, 155.8
+ACMHOPUSA, Hood academic American Ph.d, 180
+ACMHOTORPHD, Ph.D. Hood U of T, 84
+ACMJKCAP, John Knox Cap, 104
+ACMLIR, Academic Manufacture Liripipe, 47.75
+ACMMISC, Miscellaneous academic manufactured, 0
+ACMPIPING, Cord outlining Facings and Chevrons, 140
+ACMRRC, Rolling Rack Cover, 104.48
+ACMSASHPS, Sash Power Squadron, 68.25
+ACMSCARF, Scarf Fellow Guelph, 89.25
+ACMSH, Academic Honours Stole, 16.8
+ACMSTLANG, STOLE LANGARA, 60
+ACMSTOLE, Stole Academic, 0
+ACMTAGSBVE, Tam w/gold/silver bullion tasselvelvet, 117.69
+ACMTAGVE, Tam w/gold met. tass. velvet, 82.69
+ACMTAM, Tam black square, 82.69
+ACMTAVE, Tam w/tassel velvet, 99.5
+ACMTIPLANG, TIPPET LANGARA, 72
+ACMWTHAT, Winetaster hat Burgundy wool, 141.75
+ACPCHARM, L'annee en or, 0.25
+ACPCORD, Cord Graduation - 60' long w 4' tassel, 12.65
+ACPDCORD, DOUBLE HONOUR CORD, 12.95
+ACPGOGWG, GOWN SOUVENIR GREENWEAVER, 29
+ACPGOGWPK, GREENWEAVER PACKAGE, 37
+ACPGOSOUV, Gown graduation souvenir, 37
+ACPGOVIPG, GOWN SOUVENIR VIP, 21.5
+ACPGOVIPP, PACKAGE VIP, 26.5
+ACPKINDPKG, Kingergrad pkg. (gown cap) CUSTOM, 55.5
+ACPKINDRB34, Kinder pack Royal size 34, 17.9
+ACPKPKGBG30, Kinder Pack Burgundy 30, 18.15
+ACPKPKGBG34, Kinder Pack Burgundy 34, 18.15
+ACPKPKGBG38, Kinder Pack Burgundy 38, 18.15
+ACPKPKGGO30, Kinder Pack Gold 30, 18.15
+ACPKPKGGO34, Kinder Pack Gold 34, 18.15
+ACPKPKGGO38, Kinder Pack Gold 38, 18.15
+ACPKPKGGR30, Kinder Pack Green 30, 18.15
+ACPKPKGGR34, Kinder Pack Green 34, 18.15
+ACPKPKGGR38, Kinder Pack Green 38, 18.15
+ACPKPKGLB30, Kinder Pack Light Blue 30, 18.15
+ACPKPKGLB34, Kinder Pack Light Blue 34, 18.15
+ACPKPKGLB38, Kinder Pack Light Blue 38, 18.15
+ACPKPKGNY30, Kinder Pack Navy 30, 18.15
+ACPKPKGNY34, Kinder Pack Navy 34, 18.15
+ACPKPKGNY38, Kinder Pack Navy 38, 18.15
+ACPKPKGPK30, Kinder Pack Pink 30, 18.15
+ACPKPKGPK34, Kinder Pack Pink 34, 18.15
+ACPKPKGPK38, Kinder Pack Pink 38, 18.15
+ACPKPKGPP30, Kinder Pack Purple 30, 18.15
+ACPKPKGPP34, Kinder Pack Purple 34, 18.15
+ACPKPKGPP38, Kinder Pack Purple 38, 18.15
+ACPKPKGRB30, Kinder Pack Royal size 30, 18.15
+ACPKPKGRB34, Kinder Pack Royal size 34, 18.15
+ACPKPKGRB38, Kinder Pack Royal 38, 18.15
+ACPKPKGRD30, Kinder Pack Red 30, 18.15
+ACPKPKGRD34, Kinder Pack Red 34, 18.15
+ACPKPKGRD38, Kinder Pack Red 38, 18.15
+ACPKPKGWH30, Kinder Pack White 30, 18.15
+ACPKPKGWH34, Kinder Pack White 34, 18.15
+ACPKPKGWH38, Kinder Pack White 38, 18.15
+ACPMISC, Miscellaneous academic purchased goods, 0
+ACPMOB51, M/B black w/tassel 6 3/8, 98
+ACPMOB52, M/B black w/tassel 6 1/2, 98
+ACPMOB53, M/B black w/tassel 6 5/8, 98
+ACPMOB54, M/B black w/tassel 6 3/4, 98
+ACPMOB55, M/B black w/tassel 6 7/8, 98
+ACPMOB56, M/B black w/tassel 7, 98
+ACPMOB57, M/B black w/tassel 7 1/8, 98
+ACPMOB59, M/B black w/tassel 7 3/8, 98
+ACPMOB60, M/B black w/tassel 7 1/2, 98
+ACPMOB61, M/B black w/tassel 7 5/8, 98
+ACPMOB62, M/B black w/tassel 7 3/4, 98
+ACPMOB63, M/B black w/tassel 7 7/8, 98
+ACPMOBE, M/B w/tassel bengaline, 68.25
+ACPMOC51, M/B colour w/tassel 6 3/8, 98
+ACPMOC52, M/B colour w/tassel 6 1/2, 98
+ACPMOC53, M/B colour w/tassel 6 5/8, 98
+ACPMOC54, M/B colour w/tassel 6 3/4, 98
+ACPMOC55, M/B colour w/tassel 6 7/8, 98
+ACPMOC56, M/B colour w/tassel 7, 98
+ACPMOC57, M/B colour w/tassel 7 1/8, 98
+ACPMOC58, M/B colour w/tassel 7 1/4, 98
+ACPMOC59, M/B colour w/tassel 7 3/8, 98
+ACPMOC60, M/B colour w/tassel 7 1/2, 98
+ACPMOC61, M/B colour w/tassel 7 5/8, 98
+ACPMOC62, M/B colour w/tassel 7 3/4, 98
+ACPMOC63, M/B colour w/tassel 7 7/8, 98
+ACPMOCFE, M/B colour w/tassel felt, 98
+ACPMOCOLL, M/B collapsible w/tassel, 41
+ACPMOCOLLL, M/B collapsible w/tassel Large 7 5/8, 37.75
+ACPMOCOLLM, M/B collapsible w/tassel Medium 7 1/4, 37.75
+ACPMOCOLLS, M/B collapsible w/tassel Small 6 7/8, 37.75
+ACPMOCOLLXL, M/B collapsible w/tassel XLarge 7 7/8, 37.75
+ACPMOFE, M/B blk w/tassel felt, 98
+ACPMOFE51, M/B blk w/tassel felt 6 3/8, 98
+ACPMOFE52, M/B blk w/tassel felt 6 1/2, 98
+ACPMOFE53, M/B blk w/tassel felt 6 5/8, 98
+ACPMOFE54, M/B blk w/tassel felt 6 3/4, 98
+ACPMOFE55, M/B blk w/tassel felt 6 7/8, 98
+ACPMOFE56, M/B blk w/tassel felt 7, 98
+ACPMOFE57, M/B blk w/tassel felt 7 1/8, 98
+ACPMOFE58, M/B blk w/tassel felt 7 1/4, 98
+ACPMOFE59, M/B blk w/tassel felt 7 3/8, 98
+ACPMOFE60, M/B blk w/tassel felt 7 1/2, 98
+ACPMOFE61, M/B blk w/tassel felt 7 5/8, 98
+ACPMOFE62, M/B blk w/tassel felt 7 3/4, 98
+ACPMOFE63, M/B blk w/tassel felt 7 7/8, 98
+ACPMOKBG, Kinder cap & tassel Burgundy, 7.4
+ACPMOKGO, Kinder cap & tassel Gold, 7.4
+ACPMOKGR, Kinder cap & tassel Green, 7.4
+ACPMOKLB, Kinder cap & tassel Lt Blue, 7.4
+ACPMOKNY, Kinder cap & tassel Navy, 7.4
+ACPMOKPK, Kinder cap & tassel Pink, 7.4
+ACPMOKPP, Kinder cap & tassel Purple, 7.4
+ACPMOKRB, Kinder cap & tassel Royal, 7.4
+ACPMOKRD, Kinder cap & tassel Red, 7.4
+ACPMOKWH, Kinder cap & tassel White, 7.4
+ACPMOSOUV, M/B w/tassel souvenir black, 9.95
+ACPMOSOUVBLK, M/B w/tassel souvenir black, 18
+ACPMOSOUVBLUE, M/B w/tassel souvenir blue, 18
+ACPMOSOUVRED, M/B w/tassel souvenir red, 18
+ACPMOTRIM, Gold/Silver braid & bullion tassel, 75
+ACPMOVE, M/B black w/tassel velvet, 109
+ACPMOVE51, M/B blk w/tassel velvet 6 3/8, 109
+ACPMOVE52, M/B blk w/tassel velvet 6 1/2, 109
+ACPMOVE53, M/B blk w/tassel velvet 6 5/8, 109
+ACPMOVE54, M/B blk w/tassel velvet 6 3/4, 109
+ACPMOVE55, M/B blk w/tassel velvet 6 7/8, 109
+ACPMOVE56, M/B blk w/tassel velvet 7, 109
+ACPMOVE57, M/B blk w/tassel velvet 7 1/8, 109
+ACPMOVE58, M/B blk w/tassel velvet 7 1/4, 109
+ACPMOVE59, M/B blk w/tassel velvet 7 3/8, 109
+ACPMOVE60, M/B blk w/tassel velvet 7 1/2, 109
+ACPMOVE61, M/B blk w/tassel velvet 7 5/8, 109
+ACPMOVE62, M/B blk w/tassel velvet 7 3/4, 109
+ACPMOVE63, M/B blk w/tassel velvet 7 7/8, 109
+ACPRR, Rolling Rack, 157.5
+ACPSCORD, SINGLE HONOUR CORD, 8.75
+ACPSTKPGO, Kinder Pennant Gold, 8.45
+ACPSTKPWH, Kinder Pennant White, 8.45
+ACPSTKVWH, Kinder V Stole White, 0
+ACPSTULAV, Stole Professeur, 122.6
+ACPTA, Tassel, 6
+ACPTAB, Tassel Gold or Silver Bullion, 50
+ACPTC, Tassel with year charm, 2.25
+ACPTCKBG, Kinder tassel Burgundy, 3.1
+ACPTCKGO, Kinder tassel Gold, 3.1
+ACPTCKGR, Kinder tassel Green, 3.1
+ACPTCKLB, Kinder tassel Lt Blue, 0
+ACPTCKNY, Kinder tassel Navy, 3.1
+ACPTCKPK, Kinder tassel Pink, 3.1
+ACPTCKPP, Kinder tassel Purple, 3.1
+ACPTCKRB, Kinder tassel Royal, 3.1
+ACPTCKRD, Kinder tassel Red, 3.1
+ACPTCKWH, Kinder tassel White, 3.1
+ACPTMET, Tassel Metallic (Gold or Silver), 4.35
+ACRCO, Collar various (per day), 5.25
+ACRCOMCR, First Communion cross, 2.89
+ACRGOB, Gown bachelors (per day), 8.4
+ACRGOBOVER100, Gown bachelors (per day), 8.1
+ACRGOBOVER11, Gown bachelors (per day), 8.4
+ACRGOBOVER2, Gown bachelors (per day), 8.4
+ACRGOBOVER250, Gown bachelors (per day), 8.1
+ACRGOC, Gown confirmation (per day), 21
+ACRGOCOVER100, Gown confirmation (per day), 8
+ACRGOCOVER11, Gown confirmation (per day), 7.88
+ACRGOCOVER2, Gown confirmation (per day), 11.55
+ACRGOCOVER250, Gown confirmation (per day), 6.3
+ACRGOCR, Red confirmation gown (per day), 21
+ACRGOCROVER100, Red confirmation gown (per day), 7.35
+ACRGOCROVER11, Red confirmation gown (per day), 7.88
+ACRGOCROVER2, Red confirmation gown (per day), 11.55
+ACRGOCROVER250, Red confirmation gown (per day), 6.3
+ACRGOFC, Gown first communion (per day), 21
+ACRGOFCOVER100, Gown first communion (per day), 7.35
+ACRGOFCOVER11, Gown first communion (per day), 7.88
+ACRGOFCOVER2, Gown first communion (per day), 11.55
+ACRGOFCOVER250, Gown first communion (per day), 6.3
+ACRHO, Hood any degree (per day), 12
+ACRHOOVER100, Hood any degree (per day), 7.88
+ACRHOOVER11, Hood any degree (per day), 9
+ACRHOOVER2, Hood any degree (per day), 10.5
+ACRMISC, Miscellaneous academic rental, 0
+ACRMOP, Mortarboard premium velvet (per day), 10.5
+ACRMOS, Mortarboard standard (per day), 10.5
+ACRMOSOVER100, Mortarboard standard (per day), 4.99
+ACRMOSOVER11, Mortarboard standard (per day), 5.78
+ACRMOSOVER2, Mortarboard standard (per day), 6.3
+ACRSTKITR, Confirmation Stole kit - red, 5.78
+ACRSTKITW, Confirmation Stole kit- white, 5.78
+CGMDRUMJACK, Jacket & Vest - Drummer 78th Frasers, 575
+CGMMUSKJACK, Jacket & Vest - Muskateers 78th Frasers, 575
+CGMOFFJACK, Jacket & Vest - Officer 78th Frasers, 1425
+CHMCAP, Cap Canterbury style cloth, 136
+CLMCCAP, Canterbury cap 100% wool melton, 105.75
+GFPGBACA, PhD Gown Storage Bag, 19.5
+GFPGBBLU, Wardrobe Storage Bag, 21
+GFPGBWH, Garment bag White 70" long, 21
+LANH, LANGARA HOOD PKG, 35
+LANS, LANGARA STOLE PKG, 35
+LANT, LANGARA TIPPET PKG, 35
+SHPBASIC, SHIPPING TO BE ADDED, 0
+SHPMISC, Miscellaneous shipping purchased goods, 0
+SHPOE, Shipping charges overnight express, 26.25
+SHPPS, Shipping charges premium service, 15.75
+SMUB, SMU BACHELOR PKG, 22.3
+SMUD, SMU DIPLOMA PKG, 12.25
+SMUM, SMU MASTER PKG, 30.45
+SMUP, SMU PHD PKG, 54.5
+UNBCB, UNBC Bachelor Package, 30
+UNBCM, UNBC Master Package, 30
+UNBCP, UNBC PHD Package, 30
+UOTF, U of T Faculty full  RENTAL, 60
+UOTFP, U of T Faculty full  RENTAL-PHD, 60
+UOTP, U of T Faculty partial RENTAL, 50
+UOTS, U of T Student RENTAL, 50
+UOTSP, U of T Student  RENTAL-PHD, 50
+USKB, USASK BACHELOR RENTAL, 40
+USKD, USASK DIPLOMA  RENTAL, 25
+USKM, USASK MASTER RENTAL, 40
+USKP, USASK PHD RENTAL, 60
+VEMCAP, Cap canterbury style cloth, 136
+ACPMOB58, M/B black w/tassel 7 1/4, 109

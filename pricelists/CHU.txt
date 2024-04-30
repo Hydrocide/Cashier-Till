@@ -1,0 +1,135 @@
+CHMACUST, No Description, 0
+CHMALBSERVJR, Alb servers with hood poly/cotton, 132.83
+CHMALBSERVSR, Alb servers with hood poly/cotton, 161.7
+CHMCAP, Cap Canterbury style cloth, 75.08
+CHMCAPOXF, Oxford cap, 75.08
+CHMCAPSK, Skull cap, 28.88
+CHMCAPSS, Soft square choir cap, 75.08
+CHMCAPTC, Tricorner choir cap, 75.08
+CHMCASS, Cassock basic adult harcourt style, 155.93
+CHMCASS0P1, Option Junior size, 10.5
+CHMCASSALB, Choir Cassock Alb poly/cotton, 231
+CHMCASSDBORGPC, Cassock Organist D/B poly/cotton, 231
+CHMCASSDBORGPCORD, Cassock Organist D/B poly/cord, 288.75
+CHMCASSDBORGPV, Cassock Organist D/B poly/viscose, 277.73
+CHMCASSDBORGPW, Cassock Organist D/B poly wool, 404.25
+CHMCASSDBORGREG, Cassock Organist D/B regent, 277.73
+CHMCASSDBORGW, Cassock Organist D/B 100% wool, 548.63
+CHMCASSDBPC, Cassock double breasted poly/cotton, 173.25
+CHMCASSDBPCJR, Cassock double breasted poly/cotton, 167.48
+CHMCASSDBPCSR, Cassock double breasted poly/cotton, 190.58
+CHMCASSDBPOPJR, Cassock double breasted poplin, 213.68
+CHMCASSDBPOPSR, Cassock double breasted poplin, 184.8
+CHMCASSDBWINJR, Cassock double breasted poly/crepe, 190.58
+CHMCASSDBWINSR, Cassock double breasted poly/crepe, 219.45
+CHMCASSHKIN, Cassock harcourt style Kingsway, 115.5
+CHMCASSJR, Cassock choir children's, 84
+CHMCASSOP02, Option Fitted style with stand collar, 31.5
+CHMCASSOP03, Option sleeveless (DEDUCT), 5.25
+CHMCASSOP04, Option fabric polyester/cotton, 0
+CHMCASSOP05, Option fabric Windsor, 10.5
+CHMCASSOP06, Option fabric Kingsway, 10.5
+CHMCASSOP07, Option fabric Regent, 15.75
+CHMCASSOP08, Option fabric Poly/Viscose, 36.75
+CHMCASSOP09, Option Fabric Imperial, 47.25
+CHMCASSOP10, Option Matching tie belt, 0
+CHMCASSOP11, Option Double breasted style, 42
+CHMCASSOP12, Option fabric Premier Poplin, 47.25
+CHMCASSORG700, Cassock organist Poly/Viscose #700, 259.88
+CHMCASSORGPC, Cassock Organist poly/cotton, 207.9
+CHMCASSORGPCORD, Cassock Organist poly/viscose, 271.43
+CHMCASSORGPW, Cassock Organist poly wool, 375.38
+CHMCASSORGREG, Cassock Organist Regent, 225.23
+CHMCASSORGW, Cassock Organist 100% wool, 462
+CHMCASSPC, Cassock harcourt style poly/cotton, 155.93
+CHMCASSSB, Cassock fitted style w stand collar, 115.5
+CHMCASSSBORGPC, Cassock Organist S/B poly/cotton, 189
+CHMCASSSBPC, Choir cassock S/B poly/cotton, 141.75
+CHMCASSSBPCJR, Cassock single breasted poly/cotton, 115.5
+CHMCASSSBPCSR, Cassock single breasted poly/cotton, 155.93
+CHMCASSSBPOPJR, Cassock single breasted poplin, 155.93
+CHMCASSSBPOPSR, Cassock single breasted poplin, 179.03
+CHMCASSSBWINJR, Cassock single breasted poly/crepe, 161.7
+CHMCASSSBWINSR, Cassock single breasted poly/crepe, 184.8
+CHMCO100, Yoke & Cowl Collars (Single colour), 25.2
+CHMCO1002, Yoke & Cowl Collar (Dual Colour), 29.4
+CHMCO105, Reversible Cowl Collar (Single Colour), 16.8
+CHMCO1052, Reversible Cowl Collar (Dual Colour), 17.33
+CHMCO110, Choir Stole (Single Colour), 28.88
+CHMCO1102, Choir Stole (Dual Colour), 34.65
+CHMCOHAR, Harcourt collar w jabots, 28.88
+CHMCORUFF, Collarette (ruffle), 34.65
+CHMCOSOFT, Soft collar (round or square ends), 24.15
+CHMCOTBASIC, Cotta basic choir, 78.75
+CHMCOTJR, Cotta choir children's, 75.08
+CHMCOTJRWG, Cotta Jr choir WG Poly/Cotton, 98.18
+CHMCOTSR, Cotta choir Poly/Cotton, 86.63
+CHMCOTSRWG, Cotta choir WG Poly/Cotton, 132.83
+CHMCOTWG, Cotta WG Poly/Cotton, 120.75
+CHMCOTWGJR, Cotta WG Jr. Poly/Cotton, 89.25
+CHMDBCASS, Choir D/B cassock, 220.5
+CHMDBCASSORG, Cassock D/B Organist POLY/COTTON, 210
+CHMEMB, Embroidery, 0
+CHMGO415, Gown choir poly/cord, 129.68
+CHMGOABB, Gown choir abbey, 154.09
+CHMGOBAPT, Gown baptismal POLY/CREPE, 157.5
+CHMGOBASIC, Gown choir poly/cotton, 73.5
+CHMGOIMP, Gown choir imperial, 89.25
+CHMGOJR, Jr. choir gown poly/cott single colour, 57.75
+CHMGOJR2, Jr. choir gown poly/cott dual colour, 63.53
+CHMGOKING, Gown choir kingsway, 110.25
+CHMGOLIN, Gown choir linen, 131.25
+CHMGOOP02, Option Embroidered 3' high initials, 10.5
+CHMGOOP05, Option contrasting front panels, 15.75
+CHMGOOP06, Option contrasting sleeve insert, 15.75
+CHMGOOP07, Option bell sleeve w cuffs, 26.25
+CHMGOOP08, Option organists cording yoke & sleeve, 21
+CHMGOOP09, Option mandarin stand-up collar, 26.25
+CHMGOOP1, Option Embroidered symbols, 10.5
+CHMGOOP10, Option dual drop stoles w tassels, 31.5
+CHMGOOP11, Option contrasting sleeve bands, 15.75
+CHMGOOP12, Option pockets or pocket slits, 5.25
+CHMGOOP13, Option contrasting sleeve lining, 26.25
+CHMGOOP14, Option zipper front, 10.5
+CHMGOOP15, Option tapered sleeve, 26.25
+CHMGOOPO3, Option contrasting yoke, 13.13
+CHMGOOPO4, Option cord outlining yoke, 13.13
+CHMGOPCORD, Gown choir poly cord, 142.54
+CHMGOPOLY, Gown choir Polyester, 0
+CHMGOPWOOL, Gown choir poly wool, 211.84
+CHMGOREG, Gown choir regent, 113.93
+CHMGOWIN, Gown choir windsor, 103.9
+CHMGOWINJR, Jr. choir gown windsor single colour, 66.41
+CHMGOWINJR2, Jr. choir gown windsor dual colour, 69.3
+CHMMISC, Miscellaneous choir manufactured goods, 0
+CHMOV, Choir Overlay, 0
+CHMSBCASS, Cassock single-breasted choir, 110.25
+CHMSBCASSORG, Cassock S/B organist POLY/COTTON, 210
+CHMSURBASIC, Surplice basic choir, 78.75
+CHMSURJR, Surplice junior poly/cotton, 75.08
+CHMSURJRWG, Surplce Jr choir WG Poly/Cotton, 98.18
+CHMSURORG, Surplice organist, 78.75
+CHMSURPOLY, Choir Surplice 100% Polyester, 105
+CHMSURSR, Surplice choir Poly/Cotton, 86.63
+CHMSURSRWG, Surplce choir WG Poly/Cotton, 132.83
+CHMSURWG, Surplice choir WG style Poly/Cotton, 120.75
+CHPCIROPE, Cincture rope 120" (black white ecru), 26.25
+CHPMB51, Choir mortarboard 6 3/8, 63.53
+CHPMB52, Choir mortarboard 6 1/2, 63.53
+CHPMB53, Choir mortarboard 6 5/8, 63.53
+CHPMB54, Choir mortarboard 6 3/4, 63.53
+CHPMB55, Choir mortarboard 6 7/8, 63.53
+CHPMB56, Choir mortarboard 7, 63.53
+CHPMB57, Choir mortarboard 7 1/8, 63.53
+CHPMB58, Choir mortarboard 7 1/4, 63.53
+CHPMB59, Choir mortarboard 7 3/8, 63.53
+CHPMB60, Choir mortarboard 7 1/2, 63.53
+CHPMB61, Choir mortarboard 7 5/8, 63.53
+CHPMB62, Choir mortarboard 7 3/4, 63.53
+CHPMB63, Choir mortarboard 7 7/8, 63.53
+CLPSLSTC, Shirt L/S tab collar black or grey, 68.25
+GFPGBBLU, Wardrobe Storage Bag, 35
+GFPGBWH, Garment bag White 70" long, 21
+SHPBASIC, SHIPPING TO BE ADDED, 0
+SHPMISC, Miscellaneous shipping purchased goods, 0
+SHPOE, Shipping charges overnight express, 26.25

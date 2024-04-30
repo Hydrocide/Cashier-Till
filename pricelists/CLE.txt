@@ -1,0 +1,239 @@
+CHPCIROPE, Cincture rope 120" (black white ecru), 27.6
+CLMACUST, No Description, 0
+CLMALBBASIC, Alb traditional, 171
+CLMALBCFBA, Alb cassock full back Abbey, 341.25
+CLMALBCFBC, Cassock Alb full back 100% Cotton, 210
+CLMALBCFBFLAX, Cassock alb full back flax weave, 288.75
+CLMALBCFBLS, Alb cassock full back linen slub, 288.75
+CLMALBCFBPV, Alb cassock full back poly/viscose, 275.65
+CLMALBCFBPVLW, Alb cassock full back p/v linen weave, 303.2
+CLMALBCFBPW, Alb cassock full back poly/wool, 352.8
+CLMALBCFBW, Alb cassock full back 100% wool, 336
+CLMALBCTBFLAX, Cassock alb tailored back flax weave, 315
+CLMALBCTBLS, Alb cassock tailored back linen slub, 315
+CLMALBCTBPC, Alb cassock tailored back poly/cotton, 189
+CLMALBCTBPV, Alb cassock tailored back poly/viscos, 292.2
+CLMALBCTBPVLW, Alb cassock tailored back linen weave, 330.75
+CLMALBCTBPW, Alb cassock tailored back poly/wool, 374.85
+CLMALBCTBW, Alb cassock tailored back 100% wool, 409.5
+CLMALBOP1, Option fabric poly/cotton, 0
+CLMALBOP2, Option fabric polyester, 5.25
+CLMALBOP3, Option fabric poly/viscose, 15.75
+CLMALBOP4, Option fabric #297 poly/suede, 21
+CLMALBOP5, Option fabric white linen poly/viscose, 26.25
+CLMALBOP6, Option fabric off-white linen poly/vis, 31.5
+CLMALBOP7, Option fabric flax linen/viscose, 31.5
+CLMALBSERV, Alb servers w/hood poly/cotton, 126
+CLMAMICBASIC, Amice, 45
+CLMAMICOP1, Option fabric poly/cotton, 0
+CLMAMICOP2, Option fabric polyester, 5.25
+CLMAMICOP3, Option stiff collar, 5.25
+CLMBB, Brush braid hem, 71.7
+CLMBLOUSE, L/S Clergy blouse blend, 99.25
+CLMBRAID, Dean's Braid, 147
+CLMCALBTBW, Cassock double breasted 100% wool, 409.5
+CLMCAPE700, De Lasalle Cape #700, 262.5
+CLMCAPSK, Skull cap, 42
+CLMCASBASIC, Cassock basic single breasted, 210
+CLMCASCAPE, Shoulder cape wool blend, 104.75
+CLMCASCAPE2185, Shoulder cape 100% wool, 132.3
+CLMCASCAPE700, Shoulder cape poly viscose, 88.2
+CLMCASDB2185, Cassock double breasted 100% wool, 607.8
+CLMCASDB690, Cassock double breasted wool blend, 468.55
+CLMCASDB700, Cassock double breasted poly viscose, 413.45
+CLMCASLACE, Cassock lace inserts, 262.5
+CLMCASSB2185, Cassock single breasted 100% wool, 468.55
+CLMCASSB690, Cassock single breasted poly wool, 413.45
+CLMCASSB700, Cassock single breasted poly/viscose, 363.85
+CLMCASSDB, Cassock basic double breasted, 236.25
+CLMCASSDBLR, Cassock double breasted lay reader, 264.6
+CLMCASSSBLR, Cassock single breasted lay readers, 231.5
+CLMCASUK690, Cassock Ukranian wool blend, 603.75
+CLMCB2185, Collarband #2185 wool, 26.25
+CLMCCAP, Canterbury cap 100% wool melton, 68.25
+CLMCHIM690, Chimere wool/poly, 385.9
+CLMCIN2185, Cincture w/fringe #2185 wool, 121.3
+CLMCIN297, Cincture w/fringe #297 poly/suede, 68.25
+CLMCIN415, Cincture w/fringe #415 polyester silk, 84
+CLMCIN565, Cincture wfringe #565 corded acetate, 63
+CLMCIN690, Cincture w/fringe #690 wool/poly, 99.25
+CLMCIN700, Cincture w/fringe #800 poly/viscose, 82.7
+CLMCINPC, Cincture w/fringe poly/cotton, 57.75
+CLMCLOAK, Cloak w/arm slits wool melton, 425
+CLMCLOAKGAB, Cloak w/arm slits Wool Gabardine, 425
+CLMCLOAKOP1, Option detachable hood for cloak melton, 60.65
+CLMCLOAKOP2, Hood detachable for cloak Gabardine, 60.65
+CLMCPCUMM, Cummerbund Chaplain's Purple, 49.88
+CLMCUFFROM, Roman cuffs, 82.7
+CLMDBDICKIE, Double band dickie, 57.75
+CLMDBST, Clerical Stock double band, 71.7
+CLMDICKIE, Clerical Dickie with Self Collar, 57.75
+CLMDICKT, Dickie for tabs, 21
+CLMDRAB2185, Rabat double band #2185 wool, 165.4
+CLMDRAB580, Rabat double band cloth # 580, 73.5
+CLMDRAB690, Rabat double band cloth # 690, 165.4
+CLMDRAB700, Rabat double band cloth 700, 126
+CLMDS, Single Band Dickie/stock, 60.65
+CLMGAB415, Gown Aberdeen style poly/cord, 498.75
+CLMGAB690, Gown Aberdeen style wool/poly, 441
+CLMGO2185LATV, Gown Latvian Lutheran #2185 100% wool, 561.75
+CLMGO690LATV, Gown Latvian Luthera Wool/Poly blend, 456.75
+CLMGOCS2185, Gown Church of Scotland 100% wool, 472.5
+CLMGOCS297, Gown Church of Scotland 297, 446.25
+CLMGOCS690, Gown Church of Scotland wool/poly, 409.5
+CLMGOCSC2185, Church of Scotland colour 2185 wool, 535.5
+CLMGOCSC690, Gown Church of Scotland colour #690, 477.75
+CLMGOGBASIC, Gown geneva open front cor.acetate, 262.5
+CLMGOGCF, Gown geneva closed front cor.acetate, 288.75
+CLMGOGCF2185, Gown geneva closed front 100% wool, 523.5
+CLMGOGCF297, Gown geneva closed front poly/suede, 367.5
+CLMGOGCF690, Gown geneva closed front wool/poly, 457.5
+CLMGOGCF700, Gown geneva closed front poly/viscose, 414.5
+CLMGOGCFC2185, Gown C/F coloured geneva 100% wool, 562.3
+CLMGOGCFC690, Gown C/F coloured geneva wool/poly, 502
+CLMGOGCFC700, Gown C/F coloured geneva poly/viscose, 441
+CLMGOGO2185, Gown geneva open front 100% wool, 523.5
+CLMGOGO297, Gown geneva open front poly/suede, 341.25
+CLMGOGO690, Gown geneva open front wool/poly, 457.5
+CLMGOGO700, Gown geneva open front poly/viscose, 414.5
+CLMGOGOP8, Option Velvet facing & chevron, 250
+CLMGOGOP9, Option Combination w inner cuff sleeves, 52.5
+CLMGOOP1, Cord outlining facings & chevrons, 140
+CLMGOROS800, Rosicrucian gown - #800 Red, 288.75
+CLMGOSPEC, Clerical gown special design, 0
+CLMGOVERGER, Gown verger with velvet trim, 341.25
+CLMGOVERV, Gown Verger with velvet trim, 446.25
+CLMHABCAPE, Clerical Habit and Cape, 498.75
+CLMLAZMOZ2185, St. Lazarus Mozetta 2185 100% Wool, 288.75
+CLMLAZMOZ690, St. Lazarus Mozetta #690 Wool/Poly, 257.25
+CLMLAZMOZETTA, St. Lazarus Mozetta, 204.75
+CLMMH, Hood for Mantles (Detachable), 47.25
+CLMMISC, Miscellaneous clergy manufactured goods, 0
+CLMMLAZ, Mantle #700 Green lining/cross, 262.5
+CLMMLAZ690, St. Lazarus Mantle - #690 wool/poly, 309.75
+CLMMLAZ800, Mantle #800 Green lining/cross, 325
+CLMMLAZ815, St. Lazarus Mantle - #2185 100% wool, 341.25
+CLMMSCAP, Monastic scapular poly/viscose, 131.25
+CLMMSTAMB, Mantle #800 with crest supplied, 262.5
+CLMMSTJ, Mantle Regent Red White lining/cross, 309.75
+CLMMSTJER, Mantle Fortrel/Wool White lining/cross, 262.5
+CLMMSTJER2185, Mantle 2185 wool white lining/cross, 341.25
+CLMMSTJER690, Mantle Wool blend White lining/cross, 288.75
+CLMPCP, Canon's piping, 147
+CLMPS12, Preaching scarf 12" wide Bengaline, 99.75
+CLMPS12SILK, Preaching scarf 12" wide Pure Silk, 265.4
+CLMPS6, PREACHING SCARF 6' WIDE BENGALINE, 78.75
+CLMPS700, Preaching Scarf layreaders #700 Royal, 105
+CLMPS705, PREACHING SCARF 7 1/2' WIDE BENGALINE, 89.25
+CLMPS9, PREACHING SCARF 9' WIDE BENGALINE, 99.75
+CLMPSEMB, PREACHING SCARF EMBROIDERY, 126
+CLMROCH, Rochet poly/cotton, 248.05
+CLMS690, Clerical stock #690 poly/wool, 99.75
+CLMSBDICKIE, Dickie single band, 60.65
+CLMSBST, Clerical Stock single band, 60.65
+CLMSLIT, Tab Slit, 11
+CLMSRAB2185, Rabat single band 100% wool, 143.4
+CLMSRAB580, Rabat single band # 580 cloth, 68.25
+CLMSRAB690, Rabat single band cloth # 690, 126.8
+CLMSRAB700, Rabat single band cloth #700, 105
+CLMSTOLE, Stole, 0
+CLMSTOLESET, Abbey (Olive gr purple red white), 588
+CLMSURFG42, Surplice F/G poly/cotton to 42" long, 99.25
+CLMSURFG50, Surplice F/G poly/cotton to 50" long, 110.25
+CLMSURFGOVER50, Surplice F/G poly/cotton over 50"long, 126.8
+CLMSURFGWG50, Surplice F/G W/G style pol/cot to 50", 143.35
+CLMSURFGWG50+, Surplice F/G W/G style pol/cot 50+", 159.85
+CLMSURLACE, Surplice Lace insert, 131.25
+CLMSURSG42, Surplice S/G poly/cotton to 42" long, 93.75
+CLMSURSG50, Surplice S/G poly/cotton to 50" long, 104.75
+CLMSURSGOVER50, Surplice S/G poly/cotton over 50"long, 121.3
+CLMSURSGWG50, Surplice S/G W/G style poly/cot to 50, 132.3
+CLMSURSGWG50P, Surplice S/G W/G style poly/cot +50", 148.85
+CLMSURWGOVER50, Surplice W/G style poly/cotton over 50, 148.85
+CLMTIP2185, Tippet 100% wool, 173.25
+CLMTIP690, Tippet poly/wool, 141.75
+CLMTP, Tabs Preaching, 15
+CLMTSTJ, Tabard Knights of St. John regent red, 157.5
+CLMV2185, Vest clerical cloth # 2185, 192.95
+CLMV690, Vest clerical cloth # 690, 165.4
+CLMVCH, Velvet trim chevrons, 115.5
+CLMVFP, Velvet trim front panels, 126
+CLMVGAB, Vest clerical black gabardine, 183.75
+CLPCIROPE, Cincture rope 120" (black white ecru), 27.6
+CLPCIROPE144, Cincture rope 144" (blackwhiteecru), 30.35
+CLPCO, Collar Pontiff or Dean 1' or 1-1/4', 22
+CLPMCLASP, Lions Head Clasp for Mantles, 47.25
+CLPMISC, Miscellaneous clergy purchased goods, 0
+CLPPLTI, Plastic Tab Insert, 5.25
+CLPSLSBLK, Shirt long sleeve Blend, 99.25
+CLPSLSCC, Shirt L/S/ collarless colour, 57.75
+CLPSLSCW, Shirt L/S collarless white, 57.75
+CLPSLSTC, Shirt L/S tab collar 100% Cotton, 125
+CLPSNBB, L/S Shirt collarless (N/B) blend, 99.25
+CLPSNBC, L/S Shirt collarless (N/B) cotton, 125
+CLPSSSBL, Shirt short sleeve Blend, 88.2
+CLPSSSTC, Shirt S/S tab collar colour cotton, 113
+CLPSTOLESET, Stole set olive purple red white, 1449
+GFPGBBLU, Wardrobe Storage Bag, 35
+GFPGBWH, Garment bag White 70" long, 21
+GFPSTUDS, Collar studs pair (one long one short), 39
+LEMWOP6, Option covered buttons, 204.75
+SHPBASIC, SHIPPING TO BE ADDED, 0
+SHPMISC, Miscellaneous shipping purchased goods, 0
+SHPOE, Shipping charges overnight express, 26.25
+SHPPS, Shipping charges premium service, 15.75
+SLMSURWG50X, Surplice W/G style poly/cotton to 50", 136.5
+VEMALHG, Altar hanging, 0
+VEMALMB, Alms bags, 0
+VEMALSC, Altar scarf, 0
+VEMALTC, Altar cloth, 0
+VEMALTF, Altar frontal, 0
+VEMALTP, Altar panel, 0
+VEMALTR, Altar runner, 0
+VEMALTS, Altar superfrontal, 0
+VEMANTP, Antependia, 0
+VEMAPP, Apparels, 0
+VEMARSREP, Vestment alterations & repairs, 0
+VEMBANN, Banner, 0
+VEMBERV, Bervette, 0
+VEMBIR, Biretta w pom pom, 131.25
+VEMBKCV, Book cover, 0
+VEMBKMK, Book markers, 0
+VEMBRVL, Burse and veil, 0
+VEMCAP, Cap canterbury style cloth, 68.25
+VEMCHALB, Chasualb, 0
+VEMCHAS, Chasuble & understole, 0
+VEMCHCW, Chasuble cowl & understole, 0
+VEMCHLG, Chasuble lining, 0
+VEMCHVL, Chalice veil, 0
+VEMCPFT, Cope fitted, 0
+VEMCPLG, Cope lining, 0
+VEMCPTR, Cope traditional, 0
+VEMDALM, Dalmatic, 0
+VEMDSTL, Deacon stole, 0
+VEMFUNP, Funeral pall, 0
+VEMHUMV, Humeral veil, 0
+VEMLCHG, Lecturn hanging, 0
+VEMLCMK, Lecturn markers, 0
+VEMLCOV, Lectionary cover, 0
+VEMLTC, Lectionary table cloth, 0
+VEMMANP, Maniples, 0
+VEMMISC, Vestment Miscellaneous, 0
+VEMMSTL, Monastic stole, 0
+VEMPM10, Precious mitre 10" high, 0
+VEMPM12, Precious mitre 12" high, 0
+VEMPPHG, Pulpit hanging, 0
+VEMPSTL, Preaching stole, 0
+VEMSCTC, Semi credence table cloth, 0
+VEMSGTC, Semi gifts table cloth, 0
+VEMSM08, Simple mitre 8" high, 0
+VEMSM10, Simple mitre 10" high, 0
+VEMSTAST, Stole St.Augustine's, 250.5
+VEMTAPR, Tapestry, 0
+VEMTAVL, Tabernacle veil, 0
+VEMTSTL, Traditional stole, 0
+VEMTUNC, Tunical, 0
+VEMUSTL, Understole cut stole, 0
+VEMWLHG, Wall hanging, 0
+VEMYSTL, Yoke stole - rounded or pointed, 0
+VEPMISC, Vestment purchase misc., 0

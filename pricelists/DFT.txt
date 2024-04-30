@@ -1,0 +1,1041 @@
+001, TEST, 0
+ACMACUST, No Description, 0
+ACMBEGBE, Beefeater w/gold metal. tass.bengaline, 155
+ACMBEGC, Beefeater w/gold metallic tassel cloth, 155
+ACMBEGVE, Beefeater w/gold metallic tasselvelvet, 155
+ACMBESW, Beefeater w/silver metallic tasselwool, 89.25
+ACMBEVE, Beefeater w/tassel velvet, 155
+ACMCAPOXF, Cap Oxford ladies, 68.25
+ACMCO1, Collar one colour, 16.8
+ACMCO2, Collar two colour, 22.05
+ACMCO3, Collar three colour, 26.25
+ACMCOR, Academic collar reversible, 17.33
+ACMCREST, Academic Crest, 52.5
+ACMEMBDIG, Embroidery Digitizing, 315
+ACMEP, Epitoge, 0
+ACMEP1, Epitoge style #1, 14.7
+ACMEP2, Epitoge style #2, 16.8
+ACMEP3, Alumni Epitoge - U. of Guelph, 31.5
+ACMGOALUM, Alumni Gown U. of Guelph, 157.5
+ACMGOASSBDGOV, Board of Governor's Gown Assumption U., 420
+ACMGOASSLLD, Hon. Dr. of Laws gown Assumption U., 393.75
+ACMGOB, Gown bachelor, 0
+ACMGOB800, Gown Bachelor #800 Polyester, 175
+ACMGOBA, Gown bachelors corded acetate, 105
+ACMGOBB, Gown bachelors bengaline, 183.75
+ACMGOBM, Gown Board Member Specified Design, 0
+ACMGOBP, Gown bachelors polyester, 131.25
+ACMGOBPC, Gown bachelors poly/cotton, 99.75
+ACMGOBPS, Gown bachelors poly/suede, 99.75
+ACMGOBPV, Gown bachelors poly/viscose, 131.25
+ACMGOCHAN, Gown Chancellor specified design, 0
+ACMGOCHANTOR, Chancellor Gown U of T, 0
+ACMGOCHRBRD, Gown Chairman of board spec. design, 0
+ACMGODEAN, Gown Dean U of Ottawa, 892.5
+ACMGODLAV, TOGE DOYEN UNI. LAVAL, 885
+ACMGOF, Gown Fellow specified design, 420
+ACMGOFAC, Gown Faculty specified design, 0
+ACMGOHUMBER, Student Gown Humber College, 131.25
+ACMGOM, Gown Masters, 0
+ACMGOMA, Gown masters corded acetate, 210
+ACMGOMB, Gown masters bengaline, 288.75
+ACMGOMP, Gown masters polyester, 236.25
+ACMGOMPC, Gown masters poly/cord, 288.75
+ACMGOMPS, Gown masters poly/suede, 183.75
+ACMGOMPV, Gown masters poly/viscose, 236.25
+ACMGOMREG, Gown masters regent, 236.25
+ACMGOMSL, M.S.L. GOWN - PONTIFICAL INST. OF MED.ST, 656.25
+ACMGOP1, Gown Ph.d style #00200, 210
+ACMGOP2, Gown Ph.d style #00325, 341.25
+ACMGOP3, Gown Ph.d style #00350, 367.5
+ACMGOP4, Gown Ph.d style #00375, 393.75
+ACMGOP5, Gown Ph.d style #00385, 404.25
+ACMGOP6, Gown Ph.d style #00415, 435.75
+ACMGOP7, Gown Ph.D. style # 00425, 446.25
+ACMGOP8, Gown Ph.D. style # 00450, 472.5
+ACMGOP9, Gown Ph.D. style #00475, 498.75
+ACMGOPHDTOR415, Ph.D. gown # 415 U of T (poly/cord), 341.25
+ACMGOPHDTOR700, Ph.D. gown # 700 U of T (poly/viscose), 315
+ACMGOPRES, Gown President Specified design, 0
+ACMGOPRIN, Gown Principal specified design, 0
+ACMGOPROV, Gown Provost specified design, 0
+ACMGOPUSA, Gown Ph.d American, 414.75
+ACMGOREG, Gown Registrar specified design, 0
+ACMGOREGRCCO, Gown black regent RCCO, 128.63
+ACMGORLAV, GOWN RECTOR UNI. LAVAL, 1125
+ACMGOSPEC, Gown special, 0
+ACMGOULAV, U de Laval Professeur Gown, 498
+ACMGOUPP, Gown undergraduate poly/poplin, 63
+ACMGOVICECHAN, Gown Vice-Chancellor - specified design, 0
+ACMGOVRLA, GOWN VICE RECTOR UNI. LAVAL, 1125
+ACMGOWAR, Gown Warden specified design, 603.75
+ACMH10, Hood academic style #0095, 99.75
+ACMH11, Hood academic style #0100, 105
+ACMH12, Hood academic style #0105, 110.25
+ACMH13, Hood academic style #0120, 126
+ACMHO1, Hood academic style #0040, 42
+ACMHO10, Hood academic style #0085, 122.6
+ACMHO11, Hood academic style #0090, 94.5
+ACMHO12, Hood academic style #0095, 99.75
+ACMHO13, Hood academic style #00100, 105
+ACMHO14, Hood academic style #00105, 110.25
+ACMHO15, Hood academic style #00110, 115.5
+ACMHO2, Hood academic style #0045, 47.25
+ACMHO3, Hood academic style #0050, 52.5
+ACMHO4, Hood academic style #0055, 57.75
+ACMHO5, Hood academic style #0060, 63
+ACMHO6, Hood academic style #0065, 68.25
+ACMHO7, Hood academic style #0070, 118.75
+ACMHO8, Hood academic style #0075, 78.75
+ACMHO9, Hood academic style #0080, 84
+ACMHOASSLLD, Hon. Dr. of Laws Hood Assumption U., 63
+ACMHOBUSA, Hood academic American bachelors, 78.75
+ACMHODC, Diploma collar - Ontario College of Art, 46.2
+ACMHOM1, Academic mini-hood one colour, 18.9
+ACMHOM2, Academic mini-hood two colour, 19.95
+ACMHOMUSA, Hood academic American masters, 84
+ACMHOPUSA, Hood academic American Ph.d, 94.5
+ACMHOTORPHD, Ph.D. Hood U of T, 84
+ACMJKCAP, John Knox Cap, 68.25
+ACMLIR, Academic Manufacture Liripipe, 26.25
+ACMMISC, Miscellaneous academic manufactured, 0
+ACMPIPING, Cord outlining Facings and Chevrons, 78.75
+ACMRRC, Rolling Rack Cover, 104.48
+ACMSASHPS, Sash Power Squadron, 68.25
+ACMSCARF, Scarf Fellow Guelph, 89.25
+ACMSH, Academic Honours Stole, 16.8
+ACMSTLANG, STOLE LANGARA, 0
+ACMSTOLE, Stole Academic, 0
+ACMTAGSBVE, Tam w/gold/silver bullion tasselvelvet, 94.5
+ACMTAGVE, Tam w/gold metallic tassel velvet, 78.75
+ACMTAM, Tam black square, 68.25
+ACMTAVE, Tam w/tassel velvet, 78.75
+ACMTIPLANG, TIPPET LANGARA, 72
+ACMWTHAT, Winetaster hat Burgundy wool, 141.75
+ACPCHARM, Year Charm for tassels, 1.21
+ACPCORD, Cord Graduation - 60' long w 4' tassel, 10.5
+ACPDCORD, DOUBLE HONOUR CORD, 12.95
+ACPGOGWG, TOGE SOUVENIR GREENWEAVER, 29
+ACPGOGWPK, GREENWEAVER PACKAGE, 37
+ACPGORECT, Toge de Recteur Université Laval, 313.5
+ACPGOSOUV, Gown graduation souvenir, 37
+ACPGOVIPG, GOWN SOUVENIR VIP, 21.5
+ACPGOVIPP, PACKAGE VIP, 26.5
+ACPKINDPKG, Kingergrad pkg. (gown cap & diploma), 41.95
+ACPKPKGBG30, Kinder Pack Burgundy 30, 18.15
+ACPKPKGBG34, Kinder Pack Burgundy 34, 18.15
+ACPKPKGBG38, Kinder Pack Burgundy 38, 18.15
+ACPKPKGGO30, Kinder Pack Gold 30, 18.15
+ACPKPKGGO34, Kinder Pack Gold 34, 18.15
+ACPKPKGGO38, Kinder Pack Gold 38, 18.15
+ACPKPKGGR30, Kinder Pack Green 30, 18.15
+ACPKPKGGR34, Kinder Pack Green 34, 18.15
+ACPKPKGGR38, Kinder Pack Green 38, 18.15
+ACPKPKGLB30, Kinder Pack Light Blue 30, 18.15
+ACPKPKGLB34, Kinder Pack Light Blue 34, 18.15
+ACPKPKGLB38, Kinder Pack Light Blue 38, 18.15
+ACPKPKGNY30, Kinder Pack Navy 30, 18.15
+ACPKPKGNY34, Kinder Pack Navy 34, 18.15
+ACPKPKGNY38, Kinder Pack Navy 38, 18.15
+ACPKPKGPK30, Kinder Pack Pink 30, 18.15
+ACPKPKGPK34, Kinder Pack Pink 34, 18.15
+ACPKPKGPK38, Kinder Pack Pink 38, 18.15
+ACPKPKGPP30, Kinder Pack Purple 30, 18.15
+ACPKPKGPP34, Kinder Pack Purple 34, 18.15
+ACPKPKGPP38, Kinder Pack Purple 38, 18.15
+ACPKPKGRB30, Kinder Pack Royal size 30, 18.15
+ACPKPKGRB34, Kinder Pack Royal size 34, 18.15
+ACPKPKGRB38, Kinder Pack Royal 38, 18.15
+ACPKPKGRD30, Kinder Pack Red 30, 18.15
+ACPKPKGRD34, Kinder Pack Red 34, 18.15
+ACPKPKGRD38, Kinder Pack Red 38, 18.15
+ACPKPKGWH30, Kinder Pack White 30, 18.15
+ACPKPKGWH34, Kinder Pack White 34, 18.15
+ACPKPKGWH38, Kinder Pack White 38, 18.15
+ACPMISC, Miscellaneous academic purchased goods, 0
+ACPMOB51, M/B black w/tassel 6 3/8, 73.25
+ACPMOB52, M/B black w/tassel 6 1/2, 73.25
+ACPMOB53, M/B black w/tassel 6 5/8, 73.25
+ACPMOB54, M/B black w/tassel 6 3/4, 73.25
+ACPMOB55, M/B black w/tassel 6 7/8, 73.25
+ACPMOB56, M/B black w/tassel 7, 73.25
+ACPMOB57, M/B black w/tassel 7 1/8, 73.25
+ACPMOB58, M/B black w/tassel 7 1/4, 109
+ACPMOB59, M/B black w/tassel 7 3/8, 73.25
+ACPMOB60, M/B black w/tassel 7 1/2, 73.25
+ACPMOB61, M/B black w/tassel 7 5/8, 73.25
+ACPMOB62, M/B black w/tassel 7 3/4, 73.25
+ACPMOB63, M/B black w/tassel 7 7/8, 73.25
+ACPMOBE, M/B w/tassel bengaline, 68.25
+ACPMOC51, M/B colour w/tassel 6 3/8, 73.25
+ACPMOC52, M/B colour w/tassel 6 1/2, 73.25
+ACPMOC53, M/B colour w/tassel 6 5/8, 73.25
+ACPMOC54, M/B colour w/tassel 6 3/4, 73.25
+ACPMOC55, M/B colour w/tassel 6 7/8, 73.25
+ACPMOC56, M/B colour w/tassel 7, 73.25
+ACPMOC57, M/B colour w/tassel 7 1/8, 73.25
+ACPMOC58, M/B colour w/tassel 7 1/4, 73.25
+ACPMOC59, M/B colour w/tassel 7 3/8, 73.25
+ACPMOC60, M/B colour w/tassel 7 1/2, 73.25
+ACPMOC61, M/B colour w/tassel 7 5/8, 73.25
+ACPMOC62, M/B colour w/tassel 7 3/4, 73.25
+ACPMOC63, M/B colour w/tassel 7 7/8, 73.25
+ACPMOCFE, M/B colour w/tassel felt, 68.25
+ACPMOCOLL, M/B collapsible w/tassel, 25.2
+ACPMOCOLLL, M/B collapsible w/tassel Large 7 5/8, 31.5
+ACPMOCOLLM, M/B collapsible w/tassel Medium 7 1/4, 31.5
+ACPMOCOLLS, M/B collapsible w/tassel Small 6 7/8, 31.5
+ACPMOCOLLXL, M/B collapsible w/tassel XLarge 7 7/8, 31.5
+ACPMOFE, M/B blk w/tassel felt, 68.25
+ACPMOFE51, M/B blk w/tassel felt 6 3/8, 73.25
+ACPMOFE52, M/B blk w/tassel felt 6 1/2, 73.25
+ACPMOFE53, M/B blk w/tassel felt 6 5/8, 73.25
+ACPMOFE54, M/B blk w/tassel felt 6 3/4, 73.25
+ACPMOFE55, M/B blk w/tassel felt 6 7/8, 73.25
+ACPMOFE56, M/B blk w/tassel felt 7, 73.25
+ACPMOFE57, M/B blk w/tassel felt 7 1/8, 73.25
+ACPMOFE58, M/B blk w/tassel felt 7 1/4, 73.25
+ACPMOFE59, M/B blk w/tassel felt 7 3/8, 73.25
+ACPMOFE60, M/B blk w/tassel felt 7 1/2, 73.25
+ACPMOFE61, M/B blk w/tassel felt 7 5/8, 73.25
+ACPMOFE62, M/B blk w/tassel felt 7 3/4, 73.25
+ACPMOFE63, M/B blk w/tassel felt 7 7/8, 73.25
+ACPMOKBG, Kinder cap & tassel Burgundy, 7.4
+ACPMOKGO, Kinder cap & tassel Gold, 7.4
+ACPMOKGR, Kinder cap & tassel Green, 7.4
+ACPMOKLB, Kinder cap & tassel Lt Blue, 7.4
+ACPMOKNY, Kinder cap & tassel Navy, 7.4
+ACPMOKPK, Kinder cap & tassel Pink, 7.4
+ACPMOKPP, Kinder cap & tassel Purple, 7.4
+ACPMOKRB, Kinder cap & tassel Royal, 7.4
+ACPMOKRD, Kinder cap & tassel Red, 7.4
+ACPMOKWH, Kinder cap & tassel White, 7.4
+ACPMOSOUV, M/B w/tassel souvenir black, 9.95
+ACPMOSOUVBLK, M/B w/tassel souvenir black, 14.44
+ACPMOSOUVBLUE, M/B w/tassel souvenir blue, 14.44
+ACPMOSOUVRED, M/B w/tassel souvenir red, 14.44
+ACPMOTRIM, Gold/Silver braid & bullion tassel, 52.5
+ACPMOVE, M/B black w/tassel velvet, 68
+ACPMOVE51, M/B blk w/tassel velvet 6 3/8, 83.75
+ACPMOVE52, M/B blk w/tassel velvet 6 1/2, 83.75
+ACPMOVE53, M/B blk w/tassel velvet 6 5/8, 83.75
+ACPMOVE54, M/B blk w/tassel velvet 6 3/4, 83.75
+ACPMOVE55, M/B blk w/tassel velvet 6 7/8, 83.75
+ACPMOVE56, M/B blk w/tassel velvet 7, 83.75
+ACPMOVE57, M/B blk w/tassel velvet 7 1/8, 83.75
+ACPMOVE58, M/B blk w/tassel velvet 7 1/4, 109
+ACPMOVE59, M/B blk w/tassel velvet 7 3/8, 83.75
+ACPMOVE60, M/B blk w/tassel velvet 7 1/2, 83.75
+ACPMOVE61, M/B blk w/tassel velvet 7 5/8, 83.75
+ACPMOVE62, M/B blk w/tassel velvet 7 3/4, 83.75
+ACPMOVE63, M/B blk w/tassel velvet 7 7/8, 83.75
+ACPRR, Rolling Rack, 157.5
+ACPSCORD, SINGLE HONOUR CORD, 8.75
+ACPSTKVWH, Kinder V Stole White, 6.85
+ACPSTULAV, Stole Professeur, 122.6
+ACPTA, Tassel, 5.25
+ACPTAB, Tassel Gold or Silver Bullion, 52.5
+ACPTC, Tassel with year charm, 2.25
+ACPTCKBG, Kinder tassel Burgundy, 3.1
+ACPTCKGO, Kinder tassel Gold, 3.1
+ACPTCKGR, Kinder tassel Green, 3.1
+ACPTCKLB, Kinder tassel Lt Blue, 0
+ACPTCKNY, Kinder tassel Navy, 3.1
+ACPTCKPK, Kinder tassel Pink, 3.1
+ACPTCKPP, Kinder tassel Purple, 3.1
+ACPTCKRB, Kinder tassel Royal, 3.1
+ACPTCKRD, Kinder tassel Red, 3.1
+ACPTCKWH, Kinder tassel White, 3.1
+ACPTMET, Tassel Metallic (Gold or Silver), 10.5
+ACRCO, Collar various (per day), 5.25
+ACRCOMCR, First Communion cross, 2.63
+ACRGOB, Gown bachelors (per day), 8.4
+ACRGOBOVER100, Gown bachelors (per day), 8.1
+ACRGOBOVER11, Gown bachelors (per day), 6.93
+ACRGOBOVER2, Gown bachelors (per day), 10.4
+ACRGOBOVER250, Gown bachelors (per day), 5.78
+ACRGOC, Gown confirmation (per day), 11.55
+ACRGOCOVER100, Gown confirmation (per day), 6.35
+ACRGOCOVER11, Gown confirmation (per day), 6.93
+ACRGOCOVER2, Gown confirmation (per day), 10.4
+ACRGOCOVER250, Gown confirmation (per day), 5.78
+ACRGOCR, Red confirmation gown (per day), 11.55
+ACRGOCROVER100, Red confirmation gown (per day), 6.35
+ACRGOCROVER11, Red confirmation gown (per day), 6.93
+ACRGOCROVER2, Red confirmation gown (per day), 10.4
+ACRGOCROVER250, Red confirmation gown (per day), 5.78
+ACRGOFC, Gown first communion (per day), 11.55
+ACRGOFCOVER100, Gown first communion (per day), 6.35
+ACRGOFCOVER11, Gown first communion (per day), 6.93
+ACRGOFCOVER2, Gown first communion (per day), 10.4
+ACRGOFCOVER250, Gown first communion (per day), 5.78
+ACRHO, Hood any degree (per day), 10.5
+ACRHOOVER100, Hood any degree (per day), 6.93
+ACRHOOVER11, Hood any degree (per day), 7.51
+ACRHOOVER2, Hood any degree (per day), 9.24
+ACRMISC, Miscellaneous academic rental, 0
+ACRMOP, Mortarboard premium velvet (per day), 10.5
+ACRMOS, Mortarboard standard (per day), 5.78
+ACRMOSOVER100, Mortarboard standard (per day), 4.04
+ACRMOSOVER11, Mortarboard standard (per day), 4.62
+ACRMOSOVER2, Mortarboard standard (per day), 5.49
+ACRSTKITR, Confirmation Stole kit - red, 5.2
+ACRSTKITW, Confirmation Stole kit- white, 5.2
+ARS01, Alteration enlarge or reduce waistcoat, 47.25
+ARS02, Alteration enlarge or reduce skirt, 36.75
+ARS03, Alteration enlarge or reduce trousers, 26.25
+ARS04, Reface gown silk black, 318.15
+ARS05, Reface front panels colour, 204.75
+ARS06, Reface front panel & sleevessilkcolour, 414.75
+ARS07, Reface front panel and sleeves colour, 309.75
+ARS08, Reline waistcoat barrister, 57.75
+ARS09, Reline waistcoat QC/Judge, 68.25
+ARS10, Reline skirt, 42
+ARS11, Alteration Gown repairs & alterations, 0
+ARSCRRVEM, Clean repair & restore vestments, 0
+ARSMISC, Misc. alteration and repair services, 0
+ARSO4, Reface gown silk black, 395
+ARSVEM, Repairs to vestments, 0
+BACPKG2185, Gown barrister #2185 wool, 5
+BAR, PRICES INCLUDE BAR ADMISSION DISCOUNT, 0
+CGMAUEG, Aueglet - 78th Frasers, 85
+CGMBLMTM, Blazer made to measure, 682.5
+CGMCO, Collarette - 78th Frasers, 57
+CGMCUMB, Regimental Cumberbund, 36.75
+CGMDRUMJACK, Jacket & Vest - Drummer 78th Frasers, 575
+CGMFC, Frock coat english barathea wool, 787.5
+CGMFCV, Frock coat & vest english barathea wool, 945
+CGMFCVL, Frock Coat with Vestee (ladies), 787.5
+CGMJACKET, Sports Jacket made to measure basic, 0
+CGMJACKVEST, Jacket & Vest, 942.9
+CGMMESSJACK, Regimental Mess Jacket, 519.75
+CGMMISC, Miscellaneous clothing manufactured, 0
+CGMMUSKJACK, Jacket & Vest - Muskateers 78th Frasers, 551.25
+CGMMUSKSHIRT, Musketeers Shirt White, 135
+CGMOFFJACK, Jacket & Vest - Officer 78th Frasers, 1425
+CGMOFFSHIRT, Officers Shirt Cream, 175
+CGMPIPERJACK, Jacket & Vest - Piper 78th Frasers, 575
+CGMPIPSHIRT, Shirt Piper White, 99.75
+CGMSASH78, Sash Knotted w/fringe - 78th Frasers, 149
+CGMSB, Sock Braids - 78th Frasers 54", 25
+CGMSUIT, Suit 2 pc. made to measure basic, 875
+CGMVEST, Vest made to measure basic, 0
+CGPBL, Blazer uniform type, 211.31
+CGPHATB, Hat Bicorner (cocked), 309.75
+CGPHATT, Eat Tricorner, 375
+CGPMISC, Miscellaneous clothing purchased goods, 0
+CGPSKU, Skirt uniform, 126
+CGPTROUSER, Trousers made to measure, 0
+CHMACUST, No Description, 0
+CHMCAP, Cap Canterbury style cloth, 68.25
+CHMCAPOXF, Oxford cap, 68.25
+CHMCAPSK, Skull cap, 26.25
+CHMCAPSS, Soft square choir cap, 68.25
+CHMCAPTC, Tricorner choir cap, 68.25
+CHMCASS, Cassock basic adult harcourt style, 84
+CHMCASS0P1, Option Junior size, 10.5
+CHMCASSALB, Choir Cassock Alb poly/cotton, 231
+CHMCASSDBPC, Cassock double breasted poly/cotton, 173.25
+CHMCASSJR, Cassock choir children's, 84
+CHMCASSOP02, Option Fitted style with stand collar, 31.5
+CHMCASSOP03, Option sleeveless (DEDUCT), 5.25
+CHMCASSOP04, Option fabric polyester/cotton, 0
+CHMCASSOP05, Option fabric Windsor, 10.5
+CHMCASSOP06, Option fabric Kingsway, 10.5
+CHMCASSOP07, Option fabric Regent, 15.75
+CHMCASSOP08, Option fabric Poly/Viscose, 36.75
+CHMCASSOP09, Option Fabric Imperial, 47.25
+CHMCASSOP10, Option Matching tie belt, 0
+CHMCASSOP11, Option Double breasted style, 42
+CHMCASSOP12, Option fabric Premier Poplin, 47.25
+CHMCASSORG700, Cassock organist Poly/Viscose #700, 236.25
+CHMCASSSB, Cassock fitted style w stand collar, 115.5
+CHMCO100, Yoke & Cowl Collars (Single colour), 23.1
+CHMCO1002, Yoke & Cowl Collar (Dual Colour), 28.35
+CHMCO105, Reversible Cowl Collar (Single Colour), 16.8
+CHMCO1052, Reversible Cowl Collar (Dual Colour), 17.33
+CHMCO110, Choir Stole (Single Colour), 26.25
+CHMCO1102, Choir Stole (Dual Colour), 31.5
+CHMCOHAR, Harcourt collar w jabots, 26.25
+CHMCORUFF, Collarette (ruffle), 31.5
+CHMCOSOFT, Soft collar (round or square ends), 22.58
+CHMCOTBASIC, Cotta basic choir, 42
+CHMCOTJR, Cotta choir children's, 33.6
+CHMDBCASS, Choir D/B cassock, 220.5
+CHMDBCASSORG, Cassock D/B Organist POLY/COTTON, 210
+CHMGOABB, Gown choir abbey, 150.68
+CHMGOBAPT, Gown baptismal POLY/CREPE, 157.5
+CHMGOBASIC, Gown choir poly/cotton, 73.5
+CHMGOIMP, Gown choir imperial, 89.25
+CHMGOJR, Jr. choir gown poly/cott single colour, 52.5
+CHMGOJR2, Jr. choir gown poly/cott dual colour, 57.75
+CHMGOKING, Gown choir kingsway, 110.25
+CHMGOLIN, Gown choir linen, 131.25
+CHMGOOP02, Option Embroidered 3' high initials, 10.5
+CHMGOOP05, Option contrasting front panels, 15.75
+CHMGOOP06, Option contrasting sleeve insert, 15.75
+CHMGOOP07, Option bell sleeve w cuffs, 26.25
+CHMGOOP08, Option organists cording yoke & sleeve, 21
+CHMGOOP09, Option mandarin stand-up collar, 26.25
+CHMGOOP1, Option Embroidered symbols, 10.5
+CHMGOOP10, Option dual drop stoles w tassels, 31.5
+CHMGOOP11, Option contrasting sleeve bands, 15.75
+CHMGOOP12, Option pockets or pocket slits, 5.25
+CHMGOOP13, Option contrasting sleeve lining, 26.25
+CHMGOOP14, Option zipper front, 10.5
+CHMGOOP15, Option tapered sleeve, 26.25
+CHMGOOPO3, Option contrasting yoke, 13.13
+CHMGOOPO4, Option cord outlining yoke, 13.13
+CHMGOPCORD, Gown choir poly cord, 140.18
+CHMGOPWOOL, Gown choir poly wool, 203.18
+CHMGOREG, Gown choir regent, 113.93
+CHMGOWIN, Gown choir windsor, 93.98
+CHMGOWINJR, Jr. choir gown windsor single colour, 60.38
+CHMGOWINJR2, Jr. choir gown windsor dual colour, 63
+CHMMISC, Miscellaneous choir manufactured goods, 0
+CHMSBCASS, Cassock single-breasted choir, 110.25
+CHMSBCASSORG, Cassock S/B organist POLY/COTTON, 210
+CHMSURBASIC, Surplice basic choir, 42
+CHMSURJR, Surplice basic junior, 33.6
+CHMSURORG, Surplice organist, 78.75
+CHMSURPOLY, Choir Surplice 100% Polyester, 47.25
+CHPMISC, Miscellaneous choir purchased goods, 0
+CLMACUST, No Description, 0
+CLMALBBASIC, Alb traditional, 162.75
+CLMALBCFBFLAX, Cassock alb full back flax weave, 288.75
+CLMALBCFBLS, Alb cassock full back linen slub, 288.75
+CLMALBCFBPV, Alb cassock full back poly/viscose, 262.5
+CLMALBCFBPVLW, Alb cassock full back p/v linen weave, 288.75
+CLMALBCFBPW, Alb cassock full back poly/wool, 336
+CLMALBCFBW, Alb cassock full back 100% wool, 336
+CLMALBCTBFLAX, Cassock alb tailored back flax weave, 315
+CLMALBCTBLS, Alb cassock tailored back linen slub, 315
+CLMALBCTBPC, Alb cassock tailored back poly/cotton, 189
+CLMALBCTBPV, Alb cassock tailored back poly/viscos, 278.25
+CLMALBCTBPVLW, Alb cassock tailored back linen weave, 315
+CLMALBCTBPW, Alb cassock tailored back poly/wool, 357
+CLMALBOP1, Option fabric poly/cotton, 0
+CLMALBOP2, Option fabric polyester, 5.25
+CLMALBOP3, Option fabric poly/viscose, 15.75
+CLMALBOP4, Option fabric #297 poly/suede, 21
+CLMALBOP5, Option fabric white linen poly/viscose, 26.25
+CLMALBOP6, Option fabric off-white linen poly/vis, 31.5
+CLMALBOP7, Option fabric flax linen/viscose, 31.5
+CLMALBSERV, Alb servers w/hood poly/cotton, 126
+CLMAMICBASIC, Amice, 42
+CLMAMICOP1, Option fabric poly/cotton, 0
+CLMAMICOP2, Option fabric polyester, 5.25
+CLMAMICOP3, Option stiff collar, 5.25
+CLMBB, Brush braid hem, 68.25
+CLMBLOUSE, Clergy blouse, 94.5
+CLMCAPSK, Skull cap, 42
+CLMCASBASIC, Cassock basic single breasted, 210
+CLMCASCAPE, Shoulder cape wool blend, 99.75
+CLMCASCAPE2185, Shoulder cape 100% wool, 126
+CLMCASCAPE700, Shoulder cape poly viscose, 84
+CLMCASDB2185, Cassock double breasted 100% wool, 607.8
+CLMCASDB690, Cassock double breasted wool blend, 446.25
+CLMCASDB700, Cassock double breasted poly viscose, 393.75
+CLMCASLACE, Cassock lace inserts, 262.5
+CLMCASSB2185, Cassock single breasted 100% wool, 446.25
+CLMCASSB690, Cassock single breasted poly wool, 393.75
+CLMCASSB700, Cassock single breasted poly/viscose, 346.5
+CLMCASSDB, Cassock basic double breasted, 236.25
+CLMCASSDBLR, Cassock double breasted lay reader, 252
+CLMCASSSBLR, Cassock single breasted lay readers, 220.5
+CLMCB2185, Collarband #2185 wool, 26.25
+CLMCCAP, Canterbury cap 100% wool melton, 68.25
+CLMCHIM690, Chimere wool/poly, 367.5
+CLMCIN2185, Cincture w/fringe #2185 wool, 115.5
+CLMCIN297, Cincture w/fringe #297 poly/suede, 68.25
+CLMCIN415, Cincture w/fringe #415 polyester silk, 84
+CLMCIN565, Cincture wfringe #565 corded acetate, 63
+CLMCIN690, Cincture w/fringe #690 wool/poly, 94.5
+CLMCIN700, Cincture w/fringe #700 poly/viscose, 78.75
+CLMCINPC, Cincture w/fringe poly/cotton, 57.75
+CLMCLOAK, Cloak w/arm slits wool melton, 404.25
+CLMCLOAKGAB, Cloak w/arm slits Wool Gabardine, 362.25
+CLMCLOAKOP1, Option detachable hood for cloak melton, 57.75
+CLMCLOAKOP2, Hood detachable for cloak Gabardine, 47.25
+CLMCPCUMM, Cummerbund Chaplain's Purple, 49.88
+CLMCUFFROM, Roman cuffs, 78.75
+CLMDBDICKIE, Double band dickie, 57.75
+CLMDBST, Stock double band, 68.25
+CLMDICKIE, Clerical Dickie with Self Collar, 57.75
+CLMDICKT, Dickie for tabs, 21
+CLMDRAB2185, Rabat double band #2185 wool, 157.5
+CLMDRAB580, Rabat double band cloth # 580, 73.5
+CLMDRAB690, Rabat double band cloth # 690, 141.75
+CLMDRAB700, Rabat double band cloth 700, 126
+CLMDS, Dickie/stock, 52.5
+CLMGAB690, Gown Aberdeen style wool/poly, 441
+CLMGO2185LATV, Gown Latvian Lutheran #2185 100% wool, 561.75
+CLMGO690LATV, Gown Latvian Luthera Wool/Poly blend, 456.75
+CLMGOCS2185, Gown Church of Scotland 100% wool, 472.5
+CLMGOCS297, Gown Church of Scotland 297, 446.25
+CLMGOCS690, Gown Church of Scotland wool/poly, 409.5
+CLMGOCSC690, Gown Church of Scotland colour #690, 451.5
+CLMGOGBASIC, Gown geneva open front cor.acetate, 262.5
+CLMGOGCF, Gown geneva closed front cor.acetate, 288.75
+CLMGOGCF2185, Gown geneva closed front 100% wool, 498.75
+CLMGOGCF297, Gown geneva closed front poly/suede, 367.5
+CLMGOGCF690, Gown geneva closed front wool/poly, 435.75
+CLMGOGCF700, Gown geneva closed front poly/viscose, 393.75
+CLMGOGCFC2185, Gown C/F coloured geneva 100% wool, 535.5
+CLMGOGCFC690, Gown C/F coloured geneva wool/poly, 477.75
+CLMGOGCFC700, Gown C/F coloured geneva poly/viscose, 420
+CLMGOGO2185, Gown geneva open front 100% wool, 414.75
+CLMGOGO297, Gown geneva open front poly/suede, 341.25
+CLMGOGO690, Gown geneva open front wool/poly, 393.75
+CLMGOGO700, Gown geneva open front poly/viscose, 309.75
+CLMGOGOP8, Option Doctors degree facing & chevron, 0
+CLMGOGOP9, Option Combination w inner cuff sleeves, 52.5
+CLMGOOP1, Cord outlining facings & chevrons, 89.25
+CLMGOSPEC, Clerical gown special design, 0
+CLMGOVERGER, Gown verger with velvet trim, 446.25
+CLMHABCAPE, Clerical Habit and Cape, 498.75
+CLMMH, Hood for Mantles (Detachable), 47.25
+CLMMISC, Miscellaneous clergy manufactured goods, 0
+CLMMLAZ, Mantle Fortrel/Wool Green lining/cross, 262.5
+CLMMSCAP, Monastic scapular poly/viscose, 131.25
+CLMMSTAMB, Mantle Fortrel/Wool with crest supplied, 220.5
+CLMMSTJ, Mantle Regent Red White lining/cross, 262.5
+CLMMSTJER, Mantle Fortrel/Wool White lining/cross, 262.5
+CLMMSTJER2185, Mantle 2185 wool white lining/cross, 341.25
+CLMMSTJER690, Mantle Wool blend White lining/cross, 309.75
+CLMPCP, Canon's piping, 147
+CLMPS12, Preaching scarf 12" wide Bengaline, 94.5
+CLMPS12SILK, Preaching scarf 12" wide Pure Silk, 157.5
+CLMPS6, PREACHING SCARF 6' WIDE BENGALINE, 78.75
+CLMPS705, PREACHING SCARF 7 1/2' WIDE BENGALINE, 89.25
+CLMPS9, PREACHING SCARF 9' WIDE BENGALINE, 99.75
+CLMPSEMB, PREACHING SCARF EMBROIDERY, 126
+CLMROCH, Rochet poly/cotton, 236.25
+CLMS690, Clerical stock #690 poly/wool, 47.25
+CLMSBDICKIE, Dickie single band, 52.5
+CLMSBST, Stock single band, 57.75
+CLMSLIT, Tab Slit, 10.5
+CLMSRAB2185, Rabat single band 100% wool, 136.5
+CLMSRAB580, Rabat single band # 580 cloth, 68.25
+CLMSRAB690, Rabat single band cloth # 690, 120.75
+CLMSRAB700, Rabat single band cloth #700, 105
+CLMSTOLE, Stole, 0
+CLMSTOLESET, Abbey (Olive gr purple red white), 588
+CLMSURFG42, Surplice F/G poly/cotton to 42" long, 94.5
+CLMSURFG50, Surplice F/G poly/cotton to 50" long, 105
+CLMSURFGOVER50, Surplice F/G poly/cotton over 50"long, 120.75
+CLMSURFGWG50, Surplice F/G W/G style pol/cot to 50", 136.5
+CLMSURFGWG50+, Surplice F/G W/G style pol/cot 50+", 152.25
+CLMSURLACE, Surplice Lace insert, 131.25
+CLMSURSG42, Surplice S/G poly/cotton to 42" long, 89.25
+CLMSURSG50, Surplice S/G poly/cotton to 50" long, 99.75
+CLMSURSGOVER50, Surplice S/G poly/cotton over 50"long, 115.5
+CLMSURSGWG50, Surplice S/G W/G style poly/cot to 50, 126
+CLMSURSGWG50P, Surplice S/G W/G style poly/cot +50", 141.75
+CLMSURWGOVER50, Surplice W/G style poly/cotton over 50, 152.25
+CLMTIP2185, Tippet 100% wool, 173.25
+CLMTIP690, Tippet poly/wool, 141.75
+CLMTP, Tabs Preaching, 10.5
+CLMTSTJ, Tabard Knights of St. John regent red, 157.5
+CLMV2185, Vest clerical cloth # 2185, 183.75
+CLMV690, Vest clerical cloth # 690, 157.5
+CLMVCH, Velvet trim chevrons, 115.5
+CLMVFP, Velvet trim front panels, 126
+CLMVGAB, Vest clerical black gabardine, 183.75
+CLPCIROPE, Cincture rope 120" (black white ecru), 26.25
+CLPCIROPE144, Cincture rope 144" (blackwhiteecru), 28.88
+CLPCO, Collar Pontiff or Dean 1' or 1-1/4', 21
+CLPMISC, Miscellaneous clergy purchased goods, 0
+CLPSLSBLK, Shirt long sleeve black, 84
+CLPSLSCC, Shirt L/S/ collarless colour, 57.75
+CLPSLSCW, Shirt L/S collarless white, 57.75
+CLPSLSTC, Shirt L/S tab collar black or grey, 68.25
+CLPSNBB, Shirt collarless (N/B) blend, 57.75
+CLPSNBC, Shirt collarless (N/B) cotton, 78.75
+CLPSSSBL, Shirt short sleeve black, 84
+CLPSSSTC, Shirt S/S tab collar colour, 47.25
+CLPSTOLESET, Stole set olive purple red white, 367.5
+DCS01, Clean & press waistcoat, 16.5
+DCS02, Clean & press gown(wool p/w or p/v), 25
+DCS03, Clean & press gown (poly silk or silk), 17.06
+DCS04, Clean & press sash (wool), 9.25
+DCS05, Clean & press sash (silk), 5.36
+DCS06, Clean & press trousers, 12
+DCS07, Clean & press skirt, 12
+DCSMISC, Miscellaneous dry cleaning services, 0
+FAPINT, Fabric Interfacing, 6.3
+FAPMISC, Miscellaneous fabric purchased goods, 0
+FAPREGROYAL, Fabric Regent Royal, 26.25
+GFPBELT, Belt black, 26.25
+GFPCUFF, Cuff-links law society, 98
+GFPCUFF0833, Cuff links Round Blk/Silver, 25
+GFPCUFF1131, Cuff links Curved Rhodium line, 60
+GFPCUFF1139, Cuff links Rhodium black line MEN, 60
+GFPCUFF1502, Cuff links Silver Rectangle, 25
+GFPCUFF1503, CUFFLINKS Gold Rectangle, 89
+GFPCUFF1531, Cuff links Scales of justice UK, 90
+GFPCUFF1536, Cuff link Rose Gold Knot, 90
+GFPCUFF2211, CUFFLINKS SHINY SILVER BRUSHED SQUARE, 90
+GFPCUFF222, Cuff links Guilt / Not Guilty, 90
+GFPCUFF9017, Cuff links Two tone Love Knot, 60
+GFPCUFFFASH, CUKKLINK FASHION UK, 60
+GFPCUFFGLDONX, CUFF LINKS GOLD ONYX, 115
+GFPCUFFO, Cuff-links law society of Ontario, 98
+GFPCUFFRED, CUFF LINK RED CARNELIAN, 125
+GFPCUFFSLVONX, CUFF LINKS SILVER ONYX, 115
+GFPCUFFSLVPRL, CUFF LINKS SILVER SMOKED MOTHER OF PEARL, 145
+GFPCUFFSLVSTER, CUFF LINKS STERLING SILVER, 275
+GFPCUFFSOJBLK, Cuff links scales of justice black, 115
+GFPCUFFSOJGOLD, Cuff link scales of justice gold, 115
+GFPCUFFSW, Cuff Links gold filled black stone, 34.13
+GFPENGRAVE, Engraving charges (per letter), 0.37
+GFPGAVBASE, Gavel display base walnut, 84
+GFPGAVBLOC, Gavel block walnut, 42
+GFPGAVEL, Gavel walnut, 147
+GFPGBBLA, Garment bag black, 118.5
+GFPGBBLU, Wardrobe Storage Bag, 35
+GFPGBWH, Garment bag White 70" long, 23.1
+GFPGC, Gift Certificate, 0
+GFPGLOVE, Gloves white, 21
+GFPGTBBLA, Garment travel bag black, 400
+GFPMISC, Misc. gifts & furnishings purchased, 0
+GFPPLATE, Plate chelsea, 42
+GFPPLATEENG, Mounting plate for engraving, 5.25
+GFPRING, Ring law society 10k, 472.5
+GFPSCALE, Scales of Justice - 12" high - Brass, 145
+GFPSTUDS, Collar studs pair (one long one short), 39
+GFPSUSP, Suspenders six point, 50
+GFPTC, Tab case, 139
+GFPTIEB, Tie bow white, 21
+GFPTIEBL, Tie bow ladies (navy), 17.06
+GFPTIEC, Tie Court Registrar Blue/Gold striped, 16.8
+GFPTIED, Tie formal dress, 21
+LANH, LANGARA HOOD PKG, 35
+LANS, LANGARA STOLE PKG, 35
+LANT, LANGARA TIPPET PKG, 35
+LC0800R, Ladies wing collar shirt-cotton 8 R, 139.95
+LC0800T, Ladies wing collar shirt-cotton 8 T, 139.95
+LC1000R, Ladies wing collar shirt-cotton 10 R, 139.95
+LC1000T, Ladies wing collar shirt-cotton 10 T, 139.95
+LC1200R, Ladies wing collar shirt-cotton 12 R, 139.95
+LC1200T, Ladies wing collar shirt-cotton 12 T, 139.95
+LC1400R, Ladies wing collar shirt-cotton 14 R, 139.95
+LC1400T, Ladies wing collar shirt-cotton 14 T, 139.95
+LC1600R, Ladies wing collar shirt-cotton 16 R, 139.95
+LC1600T, Ladies wing collar shirt-cotton 16 T, 139.95
+LC1800R, Ladies wing collar shirt-cotton 18 R, 139.95
+LC1800T, Ladies wing collar shirt-cotton 18 T, 139.95
+LC2000R, Ladies wing collar shirt-cotton 20 R, 139.95
+LC2000T, Ladies wing collar shirt-cotton 20 T, 139.95
+LC2200R, Ladies wing collar shirt-cotton 22 R, 139.95
+LC2200T, Ladies wing collar shirt-cotton 22 T, 139.95
+LC2400R, Ladies wing collar shirt-cotton 24 R, 139.95
+LC2400T, Ladies wing collar shirt-cotton 24 T, 139.95
+LEM0C, Cincture Black Bengaline, 89.25
+LEM2185GOCOMBO, Gown barrister combo #2185 wool, 725.95
+LEMACUST, No Description, 0
+LEMAUEG, Aueglet - 78th Frasers, 85
+LEMBJ1997, Box jacket #1997 wool crepe, 325.5
+LEMBJ2185, Box jacket #2185 wool, 304.5
+LEMBJQCJ1997, Box jacket QC/Judge 100% wool crepe, 351.75
+LEMCDQCJ2185, Coatdress QC-Judges 100% wool, 588
+LEMCG, Cuffs Grey for Barbados (Crim.) gown, 73.5
+LEMCOCR, Collar Court Reporter (Harcourt Style), 26.25
+LEMCOHAR, Harcourt collar w jabots, 26.25
+LEMCP, Cuffs Pink for Supreme Court Gown, 129
+LEMCSC, Cincture Supreme Court of Canada, 105
+LEMCSCNF, Cincture Supreme Court of NF, 143.75
+LEMD1, Dickie w barr. tabs and lace, 88.95
+LEMD1J, Dicke with Judges tabs & lace, 99.5
+LEMD2, Dickie w Barr tabs and wings, 88.95
+LEMD2J, Dickie w Judges tabs and wings, 95
+LEMD3, Shirt front w Barr tabs, 63
+LEMD3J, Shirt front w Judges tabs, 68.25
+LEMGOAPCC690, Gown AB prov. clerk #690 wool/poly, 341.25
+LEMGOAPCC700, Gown AB prov. clerk #700 poly/viscose, 325.5
+LEMGOB1997, Gown barrister #1997 wool crepe, 414.75
+LEMGOB2185, Gown barrister #2185 wool, 575.75
+LEMGOB690, Gown barrister #690 wool/poly, 488.3
+LEMGOB700, Gown barrister #700 poly/viscose, 439.5
+LEMGOBCCR690, Gown 690 barrister w zipper - No purse, 288.75
+LEMGOBCOMBO, Gown barrister combination, 346.5
+LEMGOBWS2185, Gown Barrister w sleeve #2185 100% wool, 699.55
+LEMGOBWS690, Gown Barrister w sleeve #690 wool/poly, 579.75
+LEMGOBWS700, Gown Barrister w/sleeve #700 poly/visc., 469.1
+LEMGOCC700, Gown Court Clerk # 700 zipper NO PURSE, 236.25
+LEMGOCC800, Gown Court Clerk # 800 zipper NO PURSE, 260.4
+LEMGOCOMBO690, Gown barrister combo #690 wool/poly, 635.3
+LEMGOCOMBO700, Gown barrister combo #700 poly/visc., 435.75
+LEMGOCR690, Gown Court Reporter 690 Zipper NO PURSE, 236.25
+LEMGOGTP, Gown Quebec Court Clerk 100% Polyester, 185
+LEMGOGTPL, Gown Quebec Court ClerkPoly / Wool, 197.5
+LEMGOJ297, Gown w/facing Judge #297 poly, 722.4
+LEMGOJ415, Gown w/facing Judge #415 poly, 990.8
+LEMGOJ595, Gown w/facing Judge #595 silk, 1667.75
+LEMGOJAMER, American Judges Gown, 0
+LEMGOJCRIM, Gown Judges (Crim) Barbados - Red #700, 866.25
+LEMGOJP2185, Gown barrister-NO PURSE #2185 100% wool, 409.5
+LEMGOJP690, Gown barrister-NO PURSE #690 wool/poly, 295.05
+LEMGOJP700, Gown barrister NO-PURSE poly/viscose, 277.2
+LEMGOJSC, Gown Judges Supreme Court Navy F/W, 1079.5
+LEMGOM415, Gown w/facing Masters 415 poly/silk, 935.55
+LEMGOM690, Gown Mayor #690, 519.75
+LEMGOOP1, Judge & Master Gown colour facings/trim, 150
+LEMGOP1, Upgrade - Court of Can. Citizenship, 109.73
+LEMGOQ297, Gown QC #297 poly, 722.4
+LEMGOQBCC690, Gown AB QB clerk #690 wool/poly, 295.05
+LEMGOQBCC700, Gown AB QB clerk #700 poly/viscose, 277.2
+LEMGOQC297, Gown QC #297 poly/suede, 825.83
+LEMGOQC415, Gown QC #415 poly, 1239.15
+LEMGOQC595, Gown QC #595 silk, 1667.75
+LEMGOREG690, Gown barrister - NO PURSE #690, 295.05
+LEMINIT, Initials - Embroidered 1" high, 3.15
+LEMJAB, Jabot lace, 57.75
+LEMJABSCB, Jabot Supreme Court Barbados, 57.75
+LEMJENS, Gown Judge Liberty One Piece 415/690, 1420
+LEMJENS415, Gown Liberty one piece 415/690, 1562.75
+LEMJENS595, Gown Liberty one piece 595/2185, 1944.35
+LEMLEGPGJFE, Female Page Jacket Size, 205
+LEMLEGPGJMA, Male Page Jacket Size, 205
+LEMLEGPGTFE, Female Page Trousers Size, 150
+LEMLEGPGTMA, Male Page Trousers Size, 150
+LEMLEGPGVFE, Female Page Vest Size, 118.5
+LEMLEGPGVMA, Male Page Vest Size, 118.5
+LEMMENS, Gown Masters Liberty One Piece 415/690, 1170.75
+LEMMENS595, Gown Master Liberty one piece 595/2185, 1569.75
+LEMMISC, Miscellaneous legal manufactured goods, 0
+LEMRBB, Robe bag barrister blue velvet, 179.75
+LEMRBJ, Robe bag Judges green velvet, 179.75
+LEMRBOP, Option up to 4 embroidered initials 2', 10.5
+LEMRBQC, Robe bag QC red velvet, 179.75
+LEMSASH78, Knotted Sash w/fringe- 78th Frasers, 149
+LEMSASHP, Sash polyester, 68.25
+LEMSASHPROT, Sash Prothonotary, 110.25
+LEMSASHPV, Sash Red # 700 Poly/Viscose, 68.25
+LEMSASHW, Sash wool, 110.25
+LEMSB, Sock Braids - 78th Frasers, 25
+LEMSCARF, Scarf Black Silk for Supreme Court Gown, 135.5
+LEMSJ1997, Suit jacket #1997 wool crepe, 393.75
+LEMSJ2185, Suit jacket #2185 100% wool, 498.75
+LEMSK1997, Skirt black #1997 wool crepe, 157.5
+LEMSK2185, Skirt black #2185 wool, 225
+LEMSK690, Skirt black #690 wool/poly, 215
+LEMSK700, Skirt black #700 poly/viscose, 120.75
+LEMSK8297, Skirt stripe #8297 wool, 225
+LEMSK9423, Skirt stripe #9423 wool, 225
+LEMSK9424, Skirt stripe #9424 wool/poly, 215
+LEMSKBLACK, Skirt black wool gabardine, 225
+LEMSKCHAR, Skirt charcoal wool, 225
+LEMSKCHARU, Skirt charcoal uniform type, 71.93
+LEMSKPREM, Skirt premium stripe 100% wool, 225
+LEMSWCWC, Shirt wing collar womens cotton, 78.75
+LEMSWCWS, Shirt wing collar womens silk, 152.25
+LEMT1997, Trouser black #1997 wool crepe, 183.75
+LEMTB, Tabs barrister, 19.5
+LEMTB2, Tab Wide wing collar Barrister, 25
+LEMTBC, Tab barrister cotton, 0
+LEMTBDS, Tab barrister dupionne silk, 21
+LEMTBS, Tab barrister silk, 0
+LEMTDS, Tab barrister dupionne silk, 0
+LEMTL2185, Trouser legal style #2185 wool, 178.5
+LEMTNWSZ9423, Trousers ladies legal  #9423 wool, 213.68
+LEMTNWSZBLK, Trousers ladies legal black wool, 213.68
+LEMTQCJ, Tabs QC/Judge, 25
+LEMTWFZ9423, Trousers ladies stripe #9423 wool, 213.68
+LEMTWFZBLK, Trousers ladies black wool, 213.68
+LEMVEST1997, Vest barrister wool crepe - sleeveless, 183.75
+LEMVEST2185, Sleeveless Vest Barrister #2185 wool, 449.5
+LEMVEST690, Sleeveless Vest Barrister #690 wool/poly, 374.2
+LEMVEST700, Sleeveless Vest Barrister 700 pol/visc, 322.55
+LEMVEST800, Sleeveless Vest Barrister #800 poly, 183.75
+LEMWB, Wig bag silk, 68.25
+LEMWB1997, Waistcoat barrister #1997 wool crepe, 341.25
+LEMWB2185, Waistcoat barrister #2185 wool, 472.25
+LEMWB595, Waistcoat barrister #595 silk, 367.5
+LEMWB690, Waistcoat barrister #690 wool/poly, 405
+LEMWB700, Waistcoat barrister #700 poly/viscose, 362.5
+LEMWOP05, ZIPPER FRONT ON WAISTCOAT, 26.25
+LEMWOP1, Option open underarms, 75
+LEMWOP2, Option w/c coloured satin lining, 26.25
+LEMWOP3, Option elbow patches, 26.25
+LEMWOP4, Option w/c mesh back  (plus 30%), 0
+LEMWOP5, Option Double Breasted Front, 105
+LEMWOP6, Option covered buttons, 21
+LEMWOP7, Option Leather Elbow Patches, 100
+LEMWQCJ1997, Waistcoat QC/Judges #1997 Wool crepe, 357
+LEMWQCJ2185, Waistcoat QC/Judge #2185 wool, 560.85
+LEMWQCJ595, Waistcoat QC/Judges 100% Silk, 603.75
+LEMWQCJ690, Waistcoat QC/Judge #690 wool/poly, 480.75
+LEPBBUT, Button Barrister Gown/Waistcoat, 0.16
+LEPBLBUTLGE, Button Black Blazer large w/crest, 0.79
+LEPBLBUTSML, Button Black Blazer small w/crest, 0.53
+LEPCOSC, Collar street cotton, 18.9
+LEPCOSPL, Collar street plastic, 18.9
+LEPCOWC, Collar wing cotton, 60
+LEPCOWC1205, Collar wing cotton 12 1/2", 27
+LEPCOWC1300, Collar wing cotton 13", 27
+LEPCOWC1305, Collar wing cotton 13 1/2", 27
+LEPCOWC1400, Collar wing cotton 14", 27
+LEPCOWC1405, Collar wing cotton 14 1/2", 27
+LEPCOWC1500, Collar wing cotton 15", 27
+LEPCOWC1505, Collar wing cotton 15 1/2", 27
+LEPCOWC1600, Collar wing cotton 16", 27
+LEPCOWC1605, Collar wing cotton 16 1/2", 27
+LEPCOWC1700, Collar wing cotton 17", 27
+LEPCOWC1800, Collar wing cotton 18", 27
+LEPCOWC1805, Collar wing cotton 18 1/2", 27
+LEPCOWC1900, Collar wing cotton 19", 27
+LEPCOWC1905, Collar wing cotton 19 1/2", 27
+LEPCOWPA, Collar wing paper, 31.5
+LEPCOWPL, Collar wing plastic, 27
+LEPCOWPL1205, Collar wing plastic 12 1/2", 27
+LEPCOWPL1300, Collar wing plastic 13", 27
+LEPCOWPL1305, Collar wing plastic 13 1/2", 27
+LEPCOWPL1400, Collar wing plastic 14", 27
+LEPCOWPL1405, Collar wing plastic 14 1/2", 27
+LEPCOWPL1500, Collar wing plastic 15", 27
+LEPCOWPL1505, Collar wing plastic 15 1/2", 27
+LEPCOWPL1600, Collar wing plastic 16", 27
+LEPCOWPL1605, Collar wing plastic 16 1/2", 27
+LEPCOWPL1700, Collar wing plastic 17", 27
+LEPCOWPL1705, Collar wing plastic 17 1/2", 27
+LEPCOWPL1800, Collar wing plastic 18", 27
+LEPCOWPL1805, Collar wing plastic 18 1/2", 27
+LEPCOWPL1900, Collar wing plastic 19", 27
+LEPCOWPL1905, Collar wing plastic 19 1/2", 27
+LEPCREST, Crest Ontario CSO (MAG), 7.35
+LEPCRESTWIRE, Crest Hand made Wire, 39.38
+LEPJML, Jumper-Maternity Linene, 157.5
+LEPJMW, Jumper-Maternity 100% wool, 300
+LEPLBLBUTLGE, Button Ladies In-take Blazer large, 0.79
+LEPMISC, Miscellaneous legal purchased goods, 0
+LEPQCBUT, Button QC Waistcoat front, 0.16
+LEPQCBUTL, Button Large QC Waistcoat (sleeve), 0.26
+LEPSNBMB, Shirt collarless (N/B) mens blend, 180
+LEPSNBMC, Shirt collarless (N/B) mens cotton, 215
+LEPSNBWB, Shirt collarless (N/B) womens blend, 143.95
+LEPSNBWC, Shirt collarless (N/B) womens cotton, 175.35
+LEPSOPB, Option custom shirt sizing blend, 55
+LEPSOPC, Option custom shirt sizing cotton, 55
+LEPSSCMB, Shirt street collar mens blend, 0
+LEPSSCMC, Shirt street collar mens cotton, 78.75
+LEPSSCWB, Shirt street collar womens blend, 0
+LEPSW, Sword Wilkinson, 2835
+LEPSWCMB, Shirt wing collar mens BLEND, 57.75
+LEPSWCMC, Shirt wing collar mens cotton, 139.95
+LEPSWCWB, Shirt wing collar womens blend, 57.75
+LEPSWCWC, Shirt wing collar womens cotton, 139.95
+LEPSWCWPC, Shirt womens wing collar prem. cotton, 110.25
+LEPSWSL, Sword sling black w gold fringe, 63
+LEPT8297, Trousers stripe #8297 wool, 295
+LEPT9423, Trousers stripe #9423 wool, 295
+LEPT9424, Trousers stripe #9424 wool, 295
+LEPTBLACK, Trouser black, 295
+LEPTCHAR, Trousers charcoal wool, 295
+LEPTOP1, Option lining front, 45
+LEPTOP3, Option lining full, 90
+LEPTPREM, Trouser premium stripe 100% wool, 357
+LEPTTINITIALS, Tiny Tab Initials, 2.1
+LEPTU, Trouser uniform type, 162.75
+LERGOCOMBO, Gown combo barrister (per day), 299
+LERMISC, Miscellaneous legal rental, 0
+LERSF, Rental Shirt Front, 0
+LP0800R, Ladies wing collar shirt-pol/cot 8 R, 115.5
+LP0800T, Ladies wing collar shirt-pol/cot 8 T, 115.5
+LP1000R, Ladies wing collar shirt-pol/cot 10 R, 115.5
+LP1000T, Ladies wing collar shirt-pol/cot 10 T, 115.5
+LP1200R, Ladies wing collar shirt-pol/cot 12 R, 115.5
+LP1200T, Ladies wing collar shirt-pol/cot 12 T, 115.5
+LP1400R, Ladies wing collar shirt-pol/cot 14 R, 115.5
+LP1400T, Ladies wing collar shirt-pol/cot 14 T, 115.5
+LP1600R, Ladies wing collar shirt-pol/cot 16 R, 115.5
+LP1600T, Ladies wing collar shirt-pol/cot 16 T, 115.5
+LP1800R, Ladies wing collar shirt-pol/cot 18 R, 115.5
+LP1800T, Ladies wing collar shirt-pol/cot 18 T, 115.5
+LP2000R, Ladies wing collar shirt-pol/cot 20 R, 115.5
+LP2000T, Ladies wing collar shirt-pol/cot 20 T, 115.5
+LP2200R, Ladies wing collar shirt-pol/cot 22 R, 115.5
+LP2200T, Ladies wing collar shirt-pol/cot 22 T, 115.5
+LP2400R, Ladies wing collar shirt-pol/cot 24 R, 115.5
+LP2400T, Ladies wing collar shirt-pol/cot 24 T, 115.5
+MC1405R, Men's wing collar shirt-cotton 14 1/2 R, 139.95
+MC1405S, Men's wing collar shirt-cotton 14 1/2 S, 139.95
+MC1405T, Men's wing collar shirt-cotton 14 1/2 T, 139.95
+MC1500R, Men's wing collar shirt-cotton 15 R, 139.95
+MC1500S, Men's wing collar shirt-cotton 15 S, 139.95
+MC1500T, Men's wing collar shirt-cotton 15 T, 139.95
+MC1505R, Men's wing collar shirt-cotton 15 1/2 R, 139.95
+MC1505S, Men's wing collar shirt-cotton 15 1/2 S, 139.95
+MC1505T, Men's wing collar shirt-cotton 15 1/2 T, 139.95
+MC1600R, Men's wing collar shirt-cotton 16 R, 139.95
+MC1600S, Men's wing collar shirt-cotton 16 S, 139.95
+MC1600T, Men's wing collar shirt-cotton 16 T, 139.95
+MC1605R, Men's wing collar shirt-cotton 16 1/2 R, 139.95
+MC1605S, Men's wing collar shirt-cotton 16 1/2 S, 139.95
+MC1605T, Men's wing collar shirt-cotton 16 1/2 T, 139.95
+MC1700R, Men's wing collar shirt-cotton 17 R, 139.95
+MC1700S, Men's wing collar shirt-cotton 17 S, 139.95
+MC1700T, Men's wing collar shirt-cotton 17 T, 139.95
+MC1705R, Men's wing collar shirt-cotton 17 1/2 R, 139.95
+MC1705S, Men's wing collar shirt-cotton 17 1/2 S, 139.95
+MC1705T, Men's wing collar shirt-cotton 17 1/2 T, 139.95
+MC1800R, Men's wing collar shirt-cotton 18 R, 139.95
+MC1800S, Men's wing collar shirt-cotton 18 S, 139.95
+MC1800T, Men's wing collar shirt-cotton 18 T, 139.95
+MC1805R, Men's wing collar shirt-cotton 18 1/2 R, 139.95
+MC1805S, Men's wing collar shirt-cotton 18 1/2 S, 139.95
+MC1805T, Men's wing collar shirt-cotton 18 1/2 T, 139.95
+MC1900R, Men's wing collar shirt-cotton 19 R, 139.95
+MC1900S, Men's wing collar shirt-cotton 19 S, 139.95
+MC1900T, Men's wing collar shirt-cotton 19 T, 139.95
+MP1405R, Men's wing collar shirt-pol/cot 14 1/2 R, 115.5
+MP1405S, Men's wing collar shirt-pol/cot 14 12 S, 115.5
+MP1405T, Men's wing collar shirt-pol/cot 14 1/2 T, 115.5
+MP1500R, Men's wing collar shirt-pol/cot 15 R, 115.5
+MP1500S, Men's wing collar shirt-pol/cot 15 S, 115.5
+MP1500T, Men's wing collar shirt-pol/cot 15 T, 115.5
+MP1505R, Men's wing collar shirt-pol/cot 15 1/2 R, 115.5
+MP1505S, Men's wing collar shirt-pol/cot 15 1/2 S, 115.5
+MP1505T, Men's wing collar shirt-pol/cot 15 1/2 T, 115.5
+MP1600R, Men's wing collar shirt-pol/cot 16 R, 115.5
+MP1600S, Men's wing collar shirt-pol/cot 16 S, 115.5
+MP1600T, Men's wing collar shirt-pol/cot 16 T, 115.5
+MP1605R, Men's wing collar shirt-pol/cot 16 1/2 R, 115.5
+MP1605S, Men's wing collar shirt-pol/cot 16 1/2 S, 115.5
+MP1605T, Men's wing collar shirt-pol/cot 16 1/2 T, 115.5
+MP1700R, Men's wing collar shirt-pol/cot 17 R, 115.5
+MP1700S, Men's wing collar shirt-pol/cot 17 S, 115.5
+MP1700T, Men's wing collar shirt-pol/cot 17 T, 115.5
+MP1705R, Men's wing collar shirt-pol/cot 17 1/2 R, 115.5
+MP1705S, Men's wing collar shirt-pol/cot 17 1/2 S, 115.5
+MP1705T, Men's wing collar shirt-pol/cot 17 1/2 T, 115.5
+MP1800R, Men's wing collar shirt-pol/cot 18 R, 115.5
+MP1800S, Men's wing collar shirt-pol/cot 18 S, 115.5
+MP1800T, Men's wing collar shirt-pol/cot 18 T, 115.5
+MP1805R, Men's wing collar shirt-pol/cot 18 1/2 R, 115.5
+MP1805S, Men's wing collar shirt-pol/cot 18 1/2 S, 115.5
+MP1805T, Men's wing collar shirt-pol/cot 18 1/2 T, 115.5
+MP1900R, Men's wing collar shirt-pol/cot 19 R, 115.5
+MP1900S, Men's wing collar shirt-pol/cot 19 S, 115.5
+MP1900T, Men's wing collar shirt-pol/cot 19 T, 115.5
+PCL0800R, Ladies Premium Cotton Shirt - 8R, 275
+PCL0800T, Ladies Premium Cotton Shirt - 8T, 275
+PCL1000R, Ladies Premium Cotton Shirt - 10R, 275
+PCL1000T, Ladies Premium Cotton Shirt - 10T, 275
+PCL1200R, Ladies Premium Cotton Shirt - 12R, 275
+PCL1200T, Ladies Premium Cotton Shirt - 12T, 275
+PCL1400R, Ladies Premium Cotton Shirt - 14R, 275
+PCL1400T, Ladies Premium Cotton Shirt - 14T, 275
+PCL1600R, Ladies Premium Cotton Shirt - 16R, 275
+PCL1600T, Ladies Premium Cotton Shirt - 16T, 275
+PCL1800R, Ladies Premium Cotton Shirt - 18R, 275
+PCL1800T, Ladies Premium Cotton Shirt - 18T, 275
+PCL2000R, Ladies Premium Cotton Shirt - 20R, 275
+PCL2000T, Ladies Premium Cotton Shirt - 20T, 275
+PCM14005R, Men's Premium Cotton Shirt - 14 1/2 R, 275
+PCM14005S, Men's Premium Cotton Shirt - 14 1/2 S, 275
+PCM14005T, Men's Premium Cotton Shirt - 14 1/2 T, 275
+PCM1400R, Men's Premium Cotton Shirt - 14R, 275
+PCM1400S, Men's Premium Cotton Shirt - 14S, 275
+PCM1500R, Men's Premium Cotton Shirt - 15R, 275
+PCM1500S, Men's Premium Cotton Shirt - 15S, 275
+PCM1500T, Men's Premium Cotton Shirt - 15T, 275
+PCM1505R, Men's Premium Cotton Shirt - 15 1/2 R, 275
+PCM1505S, Men's Premium Cotton Shirt - 15 1/2 S, 275
+PCM1505T, Men's Premium Cotton Shirt - 15 1/2 T, 275
+PCM1600R, Men's Premium Cotton Shirt - 16R, 275
+PCM1600S, Men's Premium Cotton Shirt - 16S, 275
+PCM1600T, Men's Premium Cotton Shirt - 16T, 275
+PCM1605R, Men's Premium Cotton Shirt - 16 1/2 R, 275
+PCM1605S, Men's Premium Cotton Shirt - 16 1/2 S, 275
+PCM1605T, Men's Premium Cotton Shirt - 16 1/2 T, 275
+PCM1700R, Men's Premium Cotton Shirt - 17 R, 275
+PCM1700S, Men's Premium Cotton Shirt - 17 S, 275
+PCM1700T, Men's Premium Cotton Shirt - 17 T, 275
+PCM1705R, Men's Premium Cotton Shirt - 17 1/2 R, 275
+PCM1705S, Men's Premium Cotton Shirt - 17 1/2 S, 275
+PCM1705T, Men's Premium Cotton Shirt - 17 1/2 T, 275
+PCM1800R, Men's Premium Cotton Shirt - 18 R, 275
+PCM1800S, Men's Premium Cotton Shirt - 18 S, 275
+PCM1800T, Men's Premium Cotton Shirt - 18 T, 275
+PCM1805R, Men's Premium Cotton Shirt - 18 1/2 R, 275
+PCM1805S, Men's Premium Cotton Shirt - 18 1/2 S, 275
+PCM1805T, Men's Premium Cotton Shirt - 18 1/2 T, 275
+PCM1900R, Men's Premium Cotton Shirt - 19 R, 275
+PCM1900S, Men's Premium Cotton Shirt - 19 S, 275
+PCM1900T, Men's Premium Cotton Shirt - 19 T, 275
+PCM1905R, Men's Premium Cotton Shirt - 19 1/2 R, 275
+PCM1905S, Men's Premium Cotton Shirt - 19 1/2 S, 275
+PCM1905T, Men's Premium Cotton Shirt - 19 1/2 T, 275
+PCM2000R, Men's Premium Cotton Shirt - 20 R, 275
+PCM2000S, Men's Premium Cotton Shirt - 20 S, 275
+PCM2000T, Men's Premium Cotton Shirt - 20 T, 275
+PST, PROVINCIAL SALES TAX, 0
+SCMMISC, Misc. service charges manufactured, 0
+SCMRUSH, RUSH CHARGES HIGH PRIORITY (10%), 0
+SCMSIZE, Oversize sizing charges (15%), 0
+SHPBASIC, SHIPPING TO BE ADDED, 0
+SHPMISC, Miscellaneous shipping purchased goods, 0
+SHPOE, Shipping charges overnight express, 26.25
+SHPPS, Shipping charges premium service, 15.75
+SLMSURWG50X, Surplice W/G style poly/cotton to 50", 136.5
+SMUB, SMU BACHELOR PKG, 22.3
+SMUD, SMU DIPLOMA PKG, 12.25
+SMUM, SMU MASTER PKG, 30.45
+SMUP, SMU PHD PKG, 54.5
+USKB, USASK BACHELOR RENTAL, 40
+USKD, USASK DIPLOMA  RENTAL, 25
+USKM, USASK MASTER RENTAL, 40
+USKP, USASK PHD RENTAL, 60
+VEMALHG, Altar hanging, 0
+VEMALMB, Alms bags, 0
+VEMALSC, Altar scarf, 0
+VEMALTC, Altar cloth, 0
+VEMALTF, Altar frontal, 0
+VEMALTP, Altar panel, 0
+VEMALTR, Altar runner, 0
+VEMALTS, Altar superfrontal, 0
+VEMANTP, Antependia, 0
+VEMAPP, Apparels, 0
+VEMARSREP, Vestment alterations & repairs, 0
+VEMBANN, Banner, 0
+VEMBERV, Bervette, 0
+VEMBIR, Biretta w pom pom, 131.25
+VEMBKCV, Book cover, 0
+VEMBKMK, Book markers, 0
+VEMBRVL, Burse and veil, 0
+VEMCAP, Cap canterbury style cloth, 68.25
+VEMCHALB, Chasualb, 0
+VEMCHAS, Chasuble & understole, 0
+VEMCHCW, Chasuble cowl & understole, 0
+VEMCHLG, Chasuble lining, 0
+VEMCHVL, Chalice veil, 0
+VEMCPFT, Cope fitted, 0
+VEMCPLG, Cope lining, 0
+VEMCPTR, Cope traditional, 0
+VEMDALM, Dalmatic, 0
+VEMDSTL, Deacon stole, 0
+VEMFUNP, Funeral pall, 0
+VEMHUMV, Humeral veil, 0
+VEMLCHG, Lecturn hanging, 0
+VEMLCMK, Lecturn markers, 0
+VEMLCOV, Lectionary cover, 0
+VEMLTC, Lectionary table cloth, 0
+VEMMANP, Maniples, 0
+VEMMISC, Vestment Miscellaneous, 0
+VEMMSTL, Monastic stole, 0
+VEMPPHG, Pulpit hanging, 0
+VEMPSTL, Preaching stole, 0
+VEMSCTC, Semi credence table cloth, 0
+VEMSGTC, Semi gifts table cloth, 0
+VEMSM08, Simple mitre 8" high, 0
+VEMSM10, Simple mitre 10" high, 0
+VEMSTAST, Stole St.Augustine's, 250.5
+VEMTAPR, Tapestry, 0
+VEMTAVL, Tabernacle veil, 0
+VEMTSTL, Traditional stole, 0
+VEMTUNC, Tunical, 0
+VEMUSTL, Understole cut stole, 0
+VEMWLHG, Wall hanging, 0
+VEMYSTL, Yoke stole - rounded or pointed, 0
+VEPMISC, Vestment purchase misc., 0

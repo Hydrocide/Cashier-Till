@@ -1,0 +1,92 @@
+ACMACUST, No Description, 0
+ACMBEGVE, Beefeater noir velour, 155
+ACMCREST, Crête de l'université, 25
+ACMEP, Epitoge, 0
+ACMGOB800, Toge photograph 100% Polyester, 175
+ACMGODLAV, TOGE DOYEN UNI. LAVAL, 885
+ACMGOP2, Toge Ph.d style #00325, 495
+ACMGOP8, Toge Ph.D. style # 00450, 469.5
+ACMGOULAV, U de Laval Toge Professeur, 498
+ACMGOVRLA, TOGE VICE-RECTEUR U LAVAL, 1125
+ACMHO12, Epitoge PhD, 121.3
+ACMMISC, Produits manufacturés académiques, 0
+ACMSTOLE, Etole academic, 0
+ACMTAM, Mortier style TAM 4 pointes, 82.69
+ACPCHARM, Year Charm for tassels, 0.25
+ACPCORD, Cord Graduation - 60' long w 4' tassel, 12.65
+ACPDCORD, CORDON D'HONNEUR DOUBLE, 12.95
+ACPGOGWG, TOGE SOUVENIR GREENWEAVER, 29
+ACPGOGWPK, GREENWEAVER PACKAGE, 37
+ACPGORECT, Toge de Recteur Université Laval, 313.5
+ACPGOSOUV, Toge souvenir, 37
+ACPGOVIPG, TOGE SOUVENIR VIP, 21.5
+ACPGOVIPP, PACKAGE VIP, 26.5
+ACPKINDPKG, Toges maternelles (toge et mortier) SZ., 13.5
+ACPKPKGBG30, Toge maternelle bourgogne 30, 18.15
+ACPKPKGBG34, Toge maternelle bourgogne 34, 18.15
+ACPKPKGBG38, Toge maternelle bourgogne 38, 18.15
+ACPKPKGGO30, Toge maternelle Or 30, 18.15
+ACPKPKGGO34, Toge maternelle Or 34, 18.15
+ACPKPKGGO38, Toge maternelle Or 38, 18.15
+ACPKPKGGR30, Toge maternelle Vert 30, 18.15
+ACPKPKGGR34, Toge maternelle Vert 34, 18.15
+ACPKPKGGR38, Toge maternelle Vert 38, 18.15
+ACPKPKGLB30, Toge maternelle Bleu Pale 30, 18.15
+ACPKPKGLB34, Toge maternelle Bleu Pale 34, 18.15
+ACPKPKGLB38, Toge maternelle Bleu Pale 38, 18.15
+ACPKPKGNY30, Toge maternelle Bleu Marine 30, 18.15
+ACPKPKGNY34, Toge maternelle Bleu Marine 34, 18.15
+ACPKPKGNY38, Toge maternelle Bleu Marine 38, 18.15
+ACPKPKGPK30, Toge maternelle Rose 30, 18.15
+ACPKPKGPK34, Toge maternelle Rose 34, 18.15
+ACPKPKGPK38, Toge maternelle Rose 38, 18.15
+ACPKPKGPP30, Toge maternelle Violet 30, 18.15
+ACPKPKGPP34, Toge maternelle Voilet 34, 18.15
+ACPKPKGPP38, Toge maternelle Violet 38, 18.15
+ACPKPKGRB30, Toge maternelle bleu royal 30, 18.15
+ACPKPKGRB34, Toge maternelle  bleu royal  34, 18.15
+ACPKPKGRB38, Toge maternelle bleu royal 38, 18.15
+ACPKPKGRD30, Toge maternelle Rouge 30, 18.15
+ACPKPKGRD34, Toge maternelle Rouge 34, 18.15
+ACPKPKGRD38, Toge maternelle Rouge 38, 18.15
+ACPKPKGWH30, Toge maternelle Blanc 30, 18.15
+ACPKPKGWH34, Toge maternelle Blanc 34, 18.15
+ACPKPKGWH38, Toge maternelle Blanc 38, 18.15
+ACPMOB56, Moriter dure Noir 7, 76.69
+ACPMOB58, MORTIER DURE NOIR AVEC GLAND 7 1/4, 109
+ACPMOB60, Mortier dure avec gland 7 1/2", 76.69
+ACPMOB61, Mortier dure 7 5/8 Noir, 76.69
+ACPMOB62, Mortier dure Noirl 7 3/4, 76.69
+ACPMOC58, Mortier rigide avec gland7 1/4, 95
+ACPMOKBG, Mortier et gland Bourgogne, 7.4
+ACPMOKGO, Mortier et gland Or, 7.4
+ACPMOKGR, Mortier et gland Vert, 7.4
+ACPMOKLB, Mortier et gland Bleu pale, 7.4
+ACPMOKNY, Mortier et gland materneel Marine, 7.4
+ACPMOKPK, Mortier et gland Rose, 7.4
+ACPMOKPP, Mortier et gland Violet, 7.4
+ACPMOKRB, Mortier et gland Royal, 7.4
+ACPMOKRD, Mortier et gland Rouge, 7.4
+ACPMOKWH, Mortier et gland Blanc, 7.4
+ACPMOSOUV, Mortier et gland souvenir, 9.95
+ACPMOVE54, Mortier dure Noir velous 6 3/4, 99.5
+ACPMOVE55, Mortier Dure Noir Velours 6 7/8, 99.5
+ACPSCORD, CORDON D'HONNEUR SIMPLE, 8.75
+ACPSTKPGO, Maternelle étole en V -  or, 8.45
+ACPSTKVWH, Kinder V Stole White, 8.45
+ACPSTULAV, Etole Professeur U Laval, 122.6
+ACPTA, Gland  - aucune l'annee, 3
+ACPTC, Gland avec l'année, 2.25
+ACPTCKBG, Gland maternelle Bourgogne, 3.1
+ACPTCKGO, Gland maternelle Or, 3.1
+ACPTCKGR, Gland maternelle Vert, 3.1
+ACPTCKLB, Gland maternelle Bleu pale, 0
+ACPTCKNY, Gland maternelle Marine, 3.1
+ACPTCKPK, Gland maternelle Rose, 3.1
+ACPTCKPP, Gland maternelle Violet, 3.1
+ACPTCKRB, Gland maternelle Royal, 3.1
+ACPTCKRD, Gland maternelle Rouge, 3.1
+ACPTCKWH, Gland maternelle Blanc, 3.1
+ACRGOB, Toge location par jour, 0
+ACRHO, Épitoge location par jour, 12
+SHPBASIC, Livraison, 0

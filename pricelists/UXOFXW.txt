@@ -1,0 +1,5 @@
+ACMHO1, Hood academic style #0040, 13.23
+ACMHO2, Hood academic style #0045, 16.8
+ACMHO3, Hood academic style #0050, 33.39
+ACMHO4, Hood academic style #0055, 45.05
+ACMSTOLE, Stole Academic, 57.33

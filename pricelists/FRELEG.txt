@@ -1,0 +1,87 @@
+BAR, Prix admission Barreau, 0
+GFPCUFF1131, Boutons de manchette - Rhodium brossé, 60
+GFPCUFF1139, Boutons de manchette - Rhodium noir, 60
+GFPCUFF1531, Boutons de manchette - échelles de justice, 90
+GFPCUFF1536, Boutons de manchette - Rose nœud d'or, 90
+GFPCUFF222, Boutons de manchette - Coupable Non, 90
+GFPCUFF9017, Boutons de manchette - nœud deux tons d'amour, 60
+GFPCUFFFASH, CUKKLINK FASHION UK, 60
+GFPCUFFSOJBLK, Boutons de manchette Noir, 115
+GFPCUFFSOJGOLD, Boutons de manchettes OR, 115
+GFPCUFFSOJSIL, Boutons de manchettes ARGENT, 115
+GFPGBBLA, Housee de vetements noir, 118.5
+GFPSUSP, Bretelles avec clip ou boutons, 50
+GFPTC, Porte Rabat en cuir, 139
+LC0800R, Chemise de cour 100% Cotton 8 R, 139.95
+LC0800T, Chemise de cour 100% Cotton 8 T, 139.95
+LC1000R, Chemise de cour 100% Cotton 10 R, 139.95
+LC1000T, Chemise de cour 100% Cotton 10 T, 139.95
+LC1200R, Chemise de cour 100% Cotton 12 R, 139.95
+LC1200T, Chemise de cour 100% Cotton 12 T, 139.95
+LC1400R, Chemise de cour 100% Cotton 14 R, 139.95
+LC1400T, Chemise de cour 100% Cotton 14 T, 139.95
+LC1600R, Chemise de cour 100% Cotton 16 R, 139.95
+LC1600T, Chemise de cour 100% Cotton 16 T, 139.95
+LC1800R, Chemise de cour 100% Cotton 18 R, 139.95
+LC1800T, Chemise de cour 100% Cotton 18 T, 139.95
+LC2000R, Chemise de cour 100% Cotton 20 R, 139.95
+LC2000T, Chemise de cour 100% Cotton 20 T, 139.95
+LEM2185GOCOMBO, Toge Avocat(e) COMBO #2185 Laine, 725.95
+LEMACUST, No Description, 0
+LEMD1, Dickie pointes rabat / dentelle, 88.95
+LEMD1J, Dickie Juge avec dentelle, 99.5
+LEMD2, Dickie Avocat(e) avec pointes, 88.95
+LEMD2J, Dickie wJuge avec pointes, 95
+LEMGOB2185, Toge Avocat(e) #2185 Laine, 575.75
+LEMGOB690, Toge Avocat(e) FR #690 poly / laine, 488.3
+LEMGOB700, Toge Avocat(e) #700 poly/viscose, 439.5
+LEMGOBWS2185, Toge Avocat(e) avec manches WC  #2185 100% Laine, 699.55
+LEMGOBWS690, Toge Avocat(e) avec manches WC #690 poly/laine, 579.75
+LEMGOCOMBO690, Toge Avocat(e) COMBO #690 wpoly / laine, 635.3
+LEMGOGTP, Toge Greffier Quebec 100% Polyester, 185
+LEMGOGTPL, Toge Greffier Quebec Poly Laine, 197.5
+LEMJJLCOLL, Rabat Dentelle, 79.7
+LEMSKBLACK, Jupe Noir Laine gabardine, 225
+LEMTB, Rabat Avocat(e), 19.5
+LEMTB2, Rabat Coll cour Avocat(e), 25
+LEMTQCJ, Rabat Dentelle Avocat(e), 32
+LEMVEST2185, Gilet Avocat(e)  #2185 Laine, 449.5
+LEMVEST690, Gilet Avocat(e) #690 Poly / Laine, 374.2
+LEMVEST700, Gilet Avocat(e) #700 pol/visc, 322.55
+LEMWB2185, Waistcoat Avocat(e) #2185 Laine, 472.25
+LEMWB690, Waistcoat Avocat(e) #690 Poly/Laine, 405
+LEPT9423, Pantalons raye Laine #9423, 295
+LERGOCOMBO, Location - Toge Avocat(e) Combo & rabat, 249
+MC1405R, Chemise de cour 100% Cotton - 14 1/2 R, 139.95
+MC1405S, Chemise de cour 100% Cotton 14 1/2 S, 139.95
+MC1405T, Chemise de cour 100% Cotton 14 1/2 T, 139.95
+MC1500R, Chemise de cour 100% Cotton 15 R, 139.95
+MC1500S, Chemise de cour 100% Cotton 15 S, 139.95
+MC1500T, Chemise de cour 100% Cotton 15 T, 139.95
+MC1505R, Chemise de cour 100% Cotton 15 1/2 R, 139.95
+MC1505S, Chemise de cour 100% Cotton 15 1/2 S, 139.95
+MC1505T, Chemise de cour 100% Cotton 15 1/2 T, 139.95
+MC1600R, Chemise de cour 100% Cotton  16 R, 139.95
+MC1600S, Chemise de cour 100% Cotton 16 S, 139.95
+MC1600T, Chemise de cour 100% Cotton 16 T, 139.95
+MC1605R, Chemise de cour 100% Cotton 16 1/2 R, 139.95
+MC1605S, Chemise de cour 100% Cotton  16 1/2 S, 139.95
+MC1605T, Chemise de cour 100% Cotton  16 1/2 T, 139.95
+MC1700R, Chemise de cour 100% Cotton  17 R, 139.95
+MC1700S, Chemise de cour 100% Cotton 17 S, 139.95
+MC1700T, Chemise de cour 100% Cotton 17 T, 139.95
+MC1705R, Chemise de cour 100% Cotton 17 1/2 R, 139.95
+MC1705S, Chemise de cour 100% Cotton 17 1/2 S, 139.95
+MC1705T, Chemise de cour 100% Cotton 17 1/2 T, 139.95
+MC1800R, Chemise de cour 100% Cotton 18 R, 139.95
+MC1800S, Chemise de cour 100% Cotton 18 S, 139.95
+MC1800T, Chemise de cour 100% Cotton 18 T, 139.95
+MC1805R, Chemise de cour 100% Cotton 18 1/2 R, 139.95
+MC1805S, Chemise de cour 100% Cotton 18 1/2 S, 139.95
+MC1805T, Chemise de cour 100% Cotton 18 1/2 T, 139.95
+MC1900R, Chemise de cour 100% Cotton 19 R, 139.95
+MC1900S, Chemise de cour 100% Cotton 19 S, 139.95
+MC1900T, Chemise de cour 100% Cotton 19 T, 139.95
+MC1905R, Chemise de cour 100% Cotton 19 1/2R, 139.95
+MC1905T, Chemise de cour 100% Cotton 19 1/2T, 139.95
+SHPBASIC, Livraison, 0

@@ -1,9 +1,220 @@
-item1, BACPKG-item1, 10
-item2, BACPKG-item2, 20
-item3, BACPKG-item3, 30
-item4, BACPKG-item4, 40
-item5, BACPKG-item5, 50
-item6, BACPKG-item6, 60
-item7, BACPKG-item7, 70
-item8, BACPKG-item8, 80
-item9, BACPKG-item9, 90
+BACPKG2185, BAC-PKG-2185 test, 625
+CGPMISC, Miscellaneous clothing purchased goods, 0
+GFPBELT, Belt black, 45
+GFPCUFF, Cuff-links law society, 85
+GFPCUFF0833, Cuff links Round Blk/Silver, 25
+GFPCUFF1502, Cuff links Silver Rectangle, 25
+GFPCUFF1503, CUFFLINKS Gold Rectangle, 89
+GFPCUFF1531, Cuff links Scales of justice UK, 99
+GFPCUFFGLDONX, CUFF LINKS GOLD ONYX, 99
+GFPCUFFO, Cuff-links law society of Ontario, 85
+GFPCUFFRED, CUFF LINK RED CARNELIAN, 105
+GFPCUFFSLVONX, CUFF LINKS SILVER ONYX, 99
+GFPCUFFSLVPRL, CUFF LINKS SILVER SMOKED MOTHER OF PEARL, 119
+GFPCUFFSLVSTER, CUFF LINKS STERLING SILVER, 225
+GFPCUFFSOJBLK, Cuff links scales of justice black, 97.5
+GFPCUFFSOJGOLD, Cuff link scales of justice gold, 97.5
+GFPCUFFSW, Cuff Links gold filled black stone, 47.25
+GFPGBBLU, Wardrobe Storage Bag, 21
+GFPGBWH, Garment bag White 70" long, 23.1
+GFPSCALE, Scales of Justice - 12" high - Brass, 145
+GFPSUSP, Suspenders six point, 40
+GFPTC, Tab case, 112
+LC0800R, Ladies wing collar shirt-cotton 8 R, 110
+LC0800T, Ladies wing collar shirt-cotton 8 T, 110
+LC1000R, Ladies wing collar shirt-cotton 10 R, 110
+LC1000T, Ladies wing collar shirt-cotton 10 T, 110
+LC1200R, Ladies wing collar shirt-cotton 12 R, 110
+LC1200T, Ladies wing collar shirt-cotton 12 T, 110
+LC1400R, Ladies wing collar shirt-cotton 14 R, 110
+LC1400T, Ladies wing collar shirt-cotton 14 T, 110
+LC1600R, Ladies wing collar shirt-cotton 16 R, 110
+LC1600T, Ladies wing collar shirt-cotton 16 T, 110
+LC1800R, Ladies wing collar shirt-cotton 18 R, 110
+LC1800T, Ladies wing collar shirt-cotton 18 Tall, 110
+LC2000R, Ladies wing collar shirt-cotton 20 R, 110
+LC2000T, Ladies wing collar shirt-cotton 20 T, 110
+LC2200R, Ladies wing collar shirt-cotton 22 R, 110
+LC2200T, Ladies wing collar shirt-cotton 22 T, 110
+LC2400R, Ladies wing collar shirt-cotton 24 R, 110
+LC2400T, Ladies wing collar shirt-cotton 24 T, 110
+LEMACUST, No Description, 0
+LEMD2, Dickie w Barr tabs and wings, 88.95
+LEMGOB2185, Gown barrister #2185 wool, 409
+LEMGOB690, Gown barrister #690 wool/poly, 342
+LEMGOB700, Gown barrister #700 poly/viscose, 317
+LEMMISC, Miscellaneous legal manufactured goods, 0
+LEMRBB, Robe bag barrister blue velvet, 139.5
+LEMSK2185, Skirt black #2185 wool, 180
+LEMSK690, Skirt black #690 wool/poly, 169
+LEMSK700, Skirt black #700 poly/viscose, 130
+LEMSK8297, Skirt stripe #8297 wool, 180
+LEMSK9423, Skirt stripe #9423 wool, 180
+LEMSK9424, Skirt stripe #9424 wool/poly, 169.5
+LEMSK960, Skirt black #960 wool/poly, 157
+LEMSKBLACK, Skirt black wool gabardine, 180
+LEMSKCHAR, Skirt charcoal wool, 169.5
+LEMT1997, Trouser black #1997 wool crepe, 0.26
+LEMTB, Tabs barrister, 15.75
+LEMTL2185, Trouser legal style #2185 wool, 213.68
+LEMTWFZ9423, Trousers ladies stripe #9423 wool, 213.68
+LEMTWFZBLK, Trousers ladies black wool, 213.68
+LEMWB2185, Waistcoat barrister #2185 wool, 330.25
+LEMWB690, Waistcoat barrister #690 wool/poly, 283.5
+LEMWB700, Waistcoat barrister #700 poly/viscose, 263
+LEPBBUT, Button Barrister Gown/Waistcoat, 0.26
+LEPJMW, Jumper-Maternity 100% wool, 300
+LEPMISC, Miscellaneous legal purchased goods, 0
+LEPSSCMB, Shirt street collar mens blend, 73.4
+LEPSWCMB, Shirt wing collar mens BLEND, 81.5
+LEPSWCMC, Shirt wing collar mens cotton, 110
+LEPSWCWB, Shirt wing collar womens blend, 81.5
+LEPSWCWC, Shirt wing collar womens cotton, 110
+LEPT8297, Trousers stripe #8297 wool, 236.5
+LEPT9423, Trousers stripe #9423 wool, 236.5
+LEPT9424, Trousers stripe #9424 wool, 236.5
+LEPTBLACK, Trouser black, 236.5
+LEPTCHAR, Trousers charcoal wool, 236.5
+LEPTOP1, Option lining front, 45
+LEPTOP3, Option lining full, 90
+LEPTPREM, Trouser premium stripe 100% wool, 393.75
+LERGOCOMBO, Gown combo barrister (per day), 249
+LERMISC, Miscellaneous legal rental, 0
+LERSF, Rental Shirt Front, 0
+LP0800R, Ladies wing collar shirt-pol/cot 8 R, 93.75
+LP0800T, Ladies wing collar shirt-pol/cot 8 T, 93.75
+LP1000R, Ladies wing collar shirt-pol/cot 10 R, 93.75
+LP1000T, Ladies wing collar shirt-pol/cot 10 T, 93.75
+LP1200R, Ladies wing collar shirt-pol/cot 12 R, 93.75
+LP1200T, Ladies wing collar shirt-pol/cot 12 T, 93.75
+LP1400R, Ladies wing collar shirt-pol/cot 14 R, 93.75
+LP1400T, Ladies wing collar shirt-pol/cot 14 T, 93.75
+LP1600R, Ladies wing collar shirt-pol/cot 16 R, 93.75
+LP1600T, Ladies wing collar shirt-pol/cot 16 T, 93.75
+LP1800R, Ladies wing collar shirt-pol/cot 18 R, 93.75
+LP1800T, Ladies wing collar shirt-pol/cot 18 T, 93.75
+LP2000R, Ladies wing collar shirt-pol/cot 20 R, 93.75
+LP2000T, Ladies wing collar shirt-pol/cot 20 T, 93.75
+LP2200T, Ladies wing collar shirt-pol/cot 22 T, 93.75
+LP2400R, Ladies wing collar shirt-pol/cot 24 R, 93.75
+LP2400T, Ladies wing collar shirt-pol/cot 24 T, 93.75
+MC1405R, Men's wing collar shirt-cotton 14 1/2 R, 110
+MC1405S, Men's wing collar shirt-cotton 14 1/2 S, 110
+MC1405T, Men's wing collar shirt-cotton 14 1/2 T, 110
+MC1500R, Men's wing collar shirt-cotton 15 R, 110
+MC1500S, Men's wing collar shirt-cotton 15 S, 110
+MC1500T, Men's wing collar shirt-cotton 15 T, 110
+MC1505R, Men's wing collar shirt-cotton 15 1/2 R, 110
+MC1505S, Men's wing collar shirt-cotton 15 1/2 S, 110
+MC1505T, Men's wing collar shirt-cotton 15 1/2 T, 110
+MC1600R, Men's wing collar shirt-cotton 16 R, 110
+MC1600S, Men's wing collar shirt-cotton 16 S, 110
+MC1600T, Men's wing collar shirt-cotton 16 T, 110
+MC1605R, Men's wing collar shirt-cotton 16 1/2 R, 110
+MC1605S, Men's wing collar shirt-cotton 16 1/2 S, 110
+MC1605T, Men's wing collar shirt-cotton 16 1/2 T, 110
+MC1700R, Men's wing collar shirt-cotton 17 R, 110
+MC1700S, Men's wing collar shirt-cotton 17 S, 110
+MC1700T, Men's wing collar shirt-cotton 17 T, 110
+MC1705R, Men's wing collar shirt-cotton 17 1/2 R, 110
+MC1705S, Men's wing collar shirt-cotton 17 1/2 S, 110
+MC1705T, Men's wing collar shirt-cotton 17 1/2 T, 110
+MC1800R, Men's wing collar shirt-cotton 18 R, 110
+MC1800S, Men's wing collar shirt-cotton 18 S, 110
+MC1800T, Men's wing collar shirt-cotton 18 T, 110
+MC1805R, Men's wing collar shirt-cotton 18 1/2 R, 110
+MC1805S, Men's wing collar shirt-cotton 18 1/2 S, 110
+MC1805T, Men's wing collar shirt-cotton 18 1/2 T, 110
+MC1900R, Men's wing collar shirt-cotton 19 R, 110
+MC1900S, Men's wing collar shirt-cotton 19 S, 110
+MC1900T, Men's wing collar shirt-cotton 19 T, 110
+MC1905R, Men's wing collar shirt cotton 19 1/2R, 110
+MC1905T, Men's wing collar shirt cotton 19 1/2T, 110
+MP1405R, Men's wing collar shirt-pol/cot 14 1/2 R, 93.75
+MP1405S, Men's wing collar shirt-pol/cot 14 12 S, 93.75
+MP1405T, Men's wing collar shirt-pol/cot 14 1/2 T, 93.75
+MP1500R, Men's wing collar shirt-pol/cot 15 R, 93.75
+MP1500S, Men's wing collar shirt-pol/cot 15 S, 93.75
+MP1500T, Men's wing collar shirt-pol/cot 15 T, 93.75
+MP1505R, Men's wing collar shirt-pol/cot 15 1/2 R, 93.75
+MP1505S, Men's wing collar shirt-pol/cot 15 1/2 S, 93.75
+MP1505T, Men's wing collar shirt-pol/cot 15 1/2 T, 93.75
+MP1600R, Men's wing collar shirt-pol/cot 16 R, 93.75
+MP1600S, Men's wing collar shirt-pol/cot 16 S, 93.75
+MP1600T, Men's wing collar shirt-pol/cot 16 T, 93.75
+MP1605R, Men's wing collar shirt-pol/cot 16 1/2 R, 93.75
+MP1605S, Men's wing collar shirt-pol/cot 16 1/2 S, 93.75
+MP1605T, Men's wing collar shirt-pol/cot 16 1/2 T, 93.75
+MP1700R, Men's wing collar shirt-pol/cot 17 R, 93.75
+MP1700S, Men's wing collar shirt-pol/cot 17 S, 93.75
+MP1700T, Men's wing collar shirt-pol/cot 17 T, 93.75
+MP1705R, Men's wing collar shirt-pol/cot 17 1/2 R, 93.75
+MP1705S, Men's wing collar shirt-pol/cot 17 1/2 S, 93.75
+MP1705T, Men's wing collar shirt-pol/cot 17 1/2 T, 93.75
+MP1800R, Men's wing collar shirt-pol/cot 18 R, 93.75
+MP1800S, Men's wing collar shirt-pol/cot 18 S, 93.75
+MP1800T, Men's wing collar shirt-pol/cot 18 T, 93.75
+MP1805R, Men's wing collar shirt-pol/cot 18 1/2 R, 93.75
+MP1805S, Men's wing collar shirt-pol/cot 18 1/2 S, 93.75
+MP1805T, Men's wing collar shirt-pol/cot 18 1/2 T, 93.75
+MP1900R, Men's wing collar shirt-pol/cot 19 R, 93.75
+MP1900S, Men's wing collar shirt-pol/cot 19 S, 93.75
+MP1900T, Men's wing collar shirt-pol/cot 19 T, 93.75
+MP1905R, Men's wing collar shirt pol/cot 19 1/2R, 93.75
+MP1905T, Men's wing collar shirt pol/cot 19 1/2T, 93.75
+PCL0800R, Ladies Premium Cotton Shirt - 8R, 275
+PCL0800T, Ladies Premium Cotton Shirt - 8T, 275
+PCL1000R, Ladies Premium Cotton Shirt - 10R, 275
+PCL1000T, Ladies Premium Cotton Shirt - 10T, 275
+PCL1200R, Ladies Premium Cotton Shirt - 12R, 275
+PCL1200T, Ladies Premium Cotton Shirt - 12T, 275
+PCL1400R, Ladies Premium Cotton Shirt - 14R, 275
+PCL1400T, Ladies Premium Cotton Shirt - 14T, 275
+PCL1600R, Ladies Premium Cotton Shirt - 16R, 275
+PCL1600T, Ladies Premium Cotton Shirt - 16T, 275
+PCL1800R, Ladies Premium Cotton Shirt - 18R, 275
+PCL1800T, Ladies Premium Cotton Shirt - 18T, 275
+PCL2000R, Ladies Premium Cotton Shirt - 20R, 275
+PCL2000T, Ladies Premium Cotton Shirt - 20T, 275
+PCM14005R, Men's Premium Cotton Shirt - 14 1/2 R, 275
+PCM14005S, Men's Premium Cotton Shirt - 14 1/2 S, 275
+PCM14005T, Men's Premium Cotton Shirt - 14 1/2 T, 275
+PCM1400R, Men's Premium Cotton Shirt - 14R, 275
+PCM1400S, Men's Premium Cotton Shirt - 14S, 275
+PCM1500R, Men's Premium Cotton Shirt - 15R, 275
+PCM1500S, Men's Premium Cotton Shirt - 15S, 275
+PCM1500T, Men's Premium Cotton Shirt - 15T, 275
+PCM1505R, Men's Premium Cotton Shirt - 15 1/2 R, 275
+PCM1505S, Men's Premium Cotton Shirt - 15 1/2 S, 275
+PCM1505T, Men's Premium Cotton Shirt - 15 1/2 T, 275
+PCM1600R, Men's Premium Cotton Shirt - 16R, 275
+PCM1600S, Men's Premium Cotton Shirt - 16S, 275
+PCM1600T, Men's Premium Cotton Shirt - 16T, 275
+PCM1605R, Men's Premium Cotton Shirt - 16 1/2 R, 275
+PCM1605S, Men's Premium Cotton Shirt - 16 1/2 S, 275
+PCM1605T, Men's Premium Cotton Shirt - 16 1/2 T, 275
+PCM1700R, Men's Premium Cotton Shirt - 17 R, 275
+PCM1700S, Men's Premium Cotton Shirt - 17 S, 275
+PCM1700T, Men's Premium Cotton Shirt - 17 T, 275
+PCM1705R, Men's Premium Cotton Shirt - 17 1/2 R, 275
+PCM1705S, Men's Premium Cotton Shirt - 17 1/2 S, 275
+PCM1705T, Men's Premium Cotton Shirt - 17 1/2 T, 275
+PCM1800R, Men's Premium Cotton Shirt - 18 R, 275
+PCM1800S, Men's Premium Cotton Shirt - 18 S, 275
+PCM1800T, Men's Premium Cotton Shirt - 18 T, 275
+PCM1805R, Men's Premium Cotton Shirt - 18 1/2 R, 275
+PCM1805S, Men's Premium Cotton Shirt - 18 1/2 S, 275
+PCM1805T, Men's Premium Cotton Shirt - 18 1/2 T, 275
+PCM1900R, Men's Premium Cotton Shirt - 19 R, 275
+PCM1900S, Men's Premium Cotton Shirt - 19 S, 275
+PCM1900T, Men's Premium Cotton Shirt - 19 T, 275
+PCM1905R, Men's Premium Cotton Shirt - 19 1/2 R, 275
+PCM1905S, Men's Premium Cotton Shirt - 19 1/2 S, 275
+PCM1905T, Men's Premium Cotton Shirt - 19 1/2 T, 275
+PCM2000R, Men's Premium Cotton Shirt - 20 R, 275
+PCM2000S, Men's Premium Cotton Shirt - 20 S, 275
+PCM2000T, Men's Premium Cotton Shirt - 20 T, 275
+SCMMISC, Misc. service charges manufactured, 0
+SCMRUSH, RUSH CHARGES HIGH PRIORITY (10%), 0
+SCMSIZE, Oversize sizing charges (15%), 0
+SHPBASIC, SHIPPING TO BE ADDED, 0

@@ -1,0 +1,49 @@
+ACMGOBA, Gown bachelors corded acetate, 73.5
+ACMGOBB, Gown bachelors # 415 corded polyester, 230
+ACMGOBPC, Gown bachelors poly/cotton, 149
+ACMGOBPV, Gown bachelors poly/viscose, 84
+ACMGOMA, Gown masters corded acetate, 120.75
+ACMGOMB, Gown masters bengaline, 452
+ACMGOMPV, Gown masters poly/viscose, 370
+ACMGOP4, Gown Ph.d #690, 313.95
+ACMGOP5, Gown Ph.d #800, 346.5
+ACMGOP7, Gown Ph.D.# 2185, 418.95
+ACMHO1, Hood Bachelor, 63
+ACMHO2, Hood Master, 91.8
+ACMHO3, Hood Doctoral, 95.15
+ACMPIPING, Cord outlining Facings and Chevrons, 78.75
+ACMTAGVE, Tam w/gold metallic tassel velvet, 63
+ACPMOFE51, M/B blk w/tassel felt 6 3/8, 52.25
+ACPMOFE52, M/B blk w/tassel felt 6 1/2, 52.25
+ACPMOFE53, M/B blk w/tassel felt 6 5/8, 52.25
+ACPMOFE54, M/B blk w/tassel felt 6 3/4, 52.25
+ACPMOFE55, M/B blk w/tassel felt 6 7/8, 52.25
+ACPMOFE56, M/B blk w/tassel felt 7, 52.25
+ACPMOFE57, M/B blk w/tassel felt 7 1/8, 52.25
+ACPMOFE58, M/B blk w/tassel felt 7 1/4, 52.25
+ACPMOFE59, M/B blk w/tassel felt 7 3/8, 52.25
+ACPMOFE60, M/B blk w/tassel felt 7 1/2, 52.25
+ACPMOFE61, M/B blk w/tassel felt 7 5/8, 52.25
+ACPMOFE62, M/B blk w/tassel felt 7 3/4, 52.25
+ACPMOFE63, M/B blk w/tassel felt 7 7/8, 52.25
+ACPMOVE51, M/B blk w/tassel velvet 6 3/8, 68
+ACPMOVE52, M/B blk w/tassel velvet 6 1/2, 68
+ACPMOVE53, M/B blk w/tassel velvet 6 5/8, 68
+ACPMOVE54, M/B blk w/tassel velvet 6 3/4, 68
+ACPMOVE55, M/B blk w/tassel velvet 6 7/8, 68
+ACPMOVE56, M/B blk w/tassel velvet 7, 68
+ACPMOVE57, M/B blk w/tassel velvet 7 1/8, 68
+ACPMOVE59, M/B blk w/tassel velvet 7 3/8, 68
+ACPMOVE60, M/B blk w/tassel velvet 7 1/2, 68
+ACPMOVE61, M/B blk w/tassel velvet 7 5/8, 68
+ACPMOVE62, M/B blk w/tassel velvet 7 3/4, 68
+ACPMOVE63, M/B blk w/tassel velvet 7 7/8, 68
+ACMACUST, No Description, 0
+ACMBEVE, Beefeater w/tassel velvet, 155
+ACMGOP6, Gown Ph.d style #00415, 645
+ACMGOPUSA, Gown Ph.d American, 645
+ACMHO11, Hood academic style #0105, 112
+ACMHO7, Hood academic style #0084, 118.75
+ACPMOB58, M/B black w/tassel 7 1/4, 109
+ACPMOVE58, M/B blk w/tassel velvet 7 1/4, 109
+SHPBASIC, SHIPPING TO BE ADDED, 0
