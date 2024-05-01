@@ -3,6 +3,19 @@ from tkinter import ttk
 import tkinter.messagebox as messagebox
 import os
 
+
+#### SETUP ####
+#check display
+
+if os.environ.get('DISPLAY','') == '':
+    #print('no display found. Using :0.0')
+    os.environ.__setitem__('DISPLAY', ':0.0')
+
+os.chdir("/home/pi/Desktop/CashierTill")
+
+#### FINISH SETUP ####
+
+
 TAX_RATE = 0.13
 master_item_dict = {}
 selection = "LEG"
@@ -82,7 +95,11 @@ def calculate_order_totals():
 
 root = tk.Tk()
 root.title("Till")
-root.geometry("600x300")
+
+# Set the window size to fill the screen
+screen_width = root.winfo_screenwidth()
+screen_height = root.winfo_screenheight()
+root.geometry(f"{screen_width}x{screen_height}+0+0")
 
 # Create parent frame
 parent_frame = tk.Frame(root)
