@@ -49,14 +49,6 @@ def in_all_codes(item_code) -> bool:
             return True
     return False
 
-def configure_quick_selections():
-    """
-    read from quickselect
-    for each text file create a button
-    if the textfile has items on multiple lines
-    """
-    pass
-
 def button_clicked(item_code):
     if in_all_codes(item_code):
         add_item(item_code)
@@ -70,6 +62,16 @@ def search():
     else:
         messagebox.showerror("Item Not Found", "Item code not found")
 
+
+def remove_item_(item_code):
+    for child in tree.get_children():
+        if tree.item(child, "values")[4] == item_code:
+            quantity = int(tree.item(child, "values")[1]) - 1
+            if quantity <= 0:
+                tree.delete(child)
+            else:
+                tree.item(child, values=(tree.item(child, "values")[0], quantity, tree.item(child, "values")[2], tree.item(child, "values")[2] * quantity, item_code))
+ 
 def add_item(item_code):
     item_info = master_item_dict[selection][item_code]
     desc = item_info["name"]
@@ -90,7 +92,8 @@ def add_item(item_code):
 def remove_item():
     selected_item = tree.selection()  # Get the ID of the selected item
     if selected_item:  # Check if an item is selected
-        tree.delete(selected_item)  # Remove the selected item from the Treeview
+        item_info = tree.item(selected_item, "values")
+        remove_item_(item_info[4])
         calculate_order_totals()
     else:
         messagebox.showerror("No Item Selected", "Please select an item to Remove")
@@ -100,6 +103,7 @@ def add_additional_item():
     if selected_item:
         item_info = tree.item(selected_item, "values")
         add_item(item_info[4])
+        calculate_order_totals()
     else:
         messagebox.showerror("No Item Selected", "Please select an item to Add")
 
@@ -271,14 +275,11 @@ def create_popup_for_dict(master_dict):
     for i in range(len(kvss)):
         k, v = kvss[i][0], kvss[i][1]
         button = ttk.Button(popup_window, text=k, command=lambda kk=k, v=v: handle_click(kk, v))
-        button.grid(row=i%a, column=i//a, padx=10, pady=5, sticky="nsew")
-    # for key, value in master_dict.items():
-    #     button = ttk.Button(popup_window, text=key, command=lambda k=key, v=value: handle_click(k, v))
-    #     button.grid(row=row, column=0, padx=10, pady=5, sticky="ew")
-    #     row += 1
+        button.grid(row=i%a, column=i//a, padx=10, pady=5, ipadx=10, ipady=10, sticky="nsew")
 
+    # Creating Close Button
     close_button = ttk.Button(popup_window, text="Close", command=popup_window.destroy)
-    close_button.grid(row=(len(kvss)%a)+1, column=(len(kvss)//a)+1, padx=10, pady=5, sticky="ew")
+    close_button.grid(row=(len(kvss)//a)+1, column=0, columnspan=(len(kvss)//a), padx=10, pady=5, ipadx=20, ipady=20,  sticky="ew")
 
 #################################################################################
 #                                QUICKSELECT                                    #
@@ -342,6 +343,8 @@ kvs = [[k,v] for k,v in master_quickselect_dict.items()]
 for i in range(len(kvs)):
     item_name = kvs[i][0]
     button = tk.Button(buttons_frame, text=item_name, padx=20, pady=10, wraplength=150, command=lambda code=kvs[i][1]: create_popup_for_dict(code))
+    # TODO uncomment and implement - title at top of popup showing the "folderpath"
+    # button = tk.Button(buttons_frame, text=item_name, padx=20, pady=10, wraplength=150, command=lambda code=(kvs[i][1], item_name): create_popup_for_dict(*code))
     button.grid(row=i%3, column=i//3, sticky="nsew")
 
 # # Configure grid weights for resizing
