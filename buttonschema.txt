@@ -1,0 +1,17 @@
+<<Common Packs>>
+<2185 pack> <2185 pack>
+<690 pack> <690 pack>
+<</Common Packs>>
+
+<<Mens Shirts>>
+<<>>
+<</Mens Shirts>>
+
+<<Womens Shirts>>
+
+<</Womens Shirts>>
+
+<<Accessories>>
+
+<</Accessories>>
+i have a complex task, ask any follow up questions to make sure you udnerstand. given a JSON file i would like to generate a button that opens up a pop up window if the key points to a value that is a dictionary, generate a button that adds all item codes in the list to the order if the key points to a value that is a list, and if the key points to a value that is a string generate a button that adds the associated value to the order (will always be a code). this will be recursive, as in, a dictionary within the main dictionary will create a popup window when a button is clicked from a previous pop up window. whenever a button that adds an item (value is a list or string) close all popup windows and add that list of items or item to the order.
