@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import tkinter as tk
 from tkinter import ttk
 import tkinter.messagebox as messagebox
@@ -11,7 +12,7 @@ if os.environ.get('DISPLAY','') == '':
     #print('no display found. Using :0.0')
     os.environ.__setitem__('DISPLAY', ':0.0')
 
-os.chdir("/home/pi/Desktop/CashierTill")
+os.chdir("/home/pi/Desktop/Cashier-Till")
 
 #### FINISH SETUP ####
 
@@ -22,9 +23,9 @@ selection = "LEG"
 
 def initialize_master_item_dict():
     cwd = os.getcwd()
-    for filename in os.listdir(cwd + "\pricelists"):
-        print(filename)
-        with open("pricelists\\" + filename, "r") as file:
+    for filename in os.listdir(cwd + "/pricelists"):
+        # print(filename)
+        with open("pricelists/" + filename, "r", errors='ignore') as file:
              newdict= {}
              for line in file:
                  item_code, item_name, item_cost = line.strip().split(", ")
@@ -33,9 +34,9 @@ def initialize_master_item_dict():
 
 def in_all_codes(item_code) -> bool:
     for pricelist in master_item_dict:
-        print(item_code)
-        print(type(pricelist))
-        print()
+        # print(item_code)
+        # print(type(pricelist))
+        # print()
         if item_code in master_item_dict[pricelist]:
             return True
     return False
@@ -50,7 +51,7 @@ def configure_quick_selections():
 
 def button_clicked(item_code):
     if in_all_codes(item_code):
-        add_item(master_item_dict[selection][item_code])
+        add_item(item_code)
     else:
         messagebox.showerror("Item Not Found", "Item code not found")
 
@@ -75,12 +76,13 @@ def add_item(item_code):
     calculate_order_totals()
 
 def remove_item():
-    selected_line = int(line_number_entry.get())
-    for child in tree.get_children():
-        line_num = int(tree.item(child, "values")[0])
-        if line_num == selected_line:
-            tree.delete(child)
-    calculate_order_totals()
+    selected_item = tree.selection()  # Get the ID of the selected item
+    if selected_item:  # Check if an item is selected
+        tree.delete(selected_item)  # Remove the selected item from the Treeview
+        calculate_order_totals()
+    else:
+        messagebox.showerror("No Item Selected", "Please select an item to remove")
+
 
 def calculate_order_totals():
     subtotal = 0
@@ -98,7 +100,7 @@ root.title("Till")
 
 # Set the window size to fill the screen
 screen_width = root.winfo_screenwidth()
-screen_height = root.winfo_screenheight()
+screen_height = root.winfo_screenheight() - 65
 root.geometry(f"{screen_width}x{screen_height}+0+0")
 
 # Create parent frame
@@ -107,7 +109,7 @@ parent_frame.grid(row=0, column=0, sticky="nsew")
 
 # Initialize master item dictionary and get the first four items
 initialize_master_item_dict()
-first_four_items = []
+first_four_items = ['LEMACUST', 'LEMTB', 'LEMD2', 'LEMGOB2185']
 
 # Create frame for buttons
 buttons_frame = tk.Frame(parent_frame)
@@ -116,8 +118,8 @@ buttons_frame.grid(row=0, column=0, sticky="nsew")
 # Create buttons with first four items
 buttons = []
 for i, item_code in enumerate(first_four_items):
-    item_info = master_item_dict[item_code] # not gonna work
-    button = tk.Button(buttons_frame, text=item_info["name"], command=lambda code=item_code: button_clicked(code))
+    item_info = master_item_dict[selection][item_code] # not gonna work
+    button = tk.Button(buttons_frame, text=item_info["name"], padx=0, pady=0, wraplength=150, command=lambda code=item_code: button_clicked(code))
     button.grid(row=i//2, column=i%2, sticky="nsew")
     buttons.append(button)
 
@@ -125,7 +127,7 @@ for i, item_code in enumerate(first_four_items):
 search_frame = tk.Frame(buttons_frame)
 search_frame.grid(row=2, column=0, columnspan=2, sticky="nsew")
 
-search_button = tk.Button(search_frame, text="Search", command=search)
+search_button = tk.Button(search_frame, text="Search", pady=10, command=search)
 search_button.grid(row=0, column=0, sticky="nsew", padx=10)
 
 search_entry = tk.Entry(search_frame, width=5)
@@ -133,13 +135,10 @@ search_entry.grid(row=0, column=1, sticky="nsew", padx=5)
 
 # Create frame for remove bar
 remove_frame = tk.Frame(buttons_frame)
-remove_frame.grid(row=3, column=0, columnspan=2, sticky="nsew")
+remove_frame.grid(row=3, column=0, columnspan=1, sticky="nsew")
 
-remove_button = tk.Button(remove_frame, text="Remove Item", command=remove_item)
-remove_button.grid(row=0, column=0, sticky="nsew", padx=10)
-
-line_number_entry = tk.Entry(remove_frame, width=5)
-line_number_entry.grid(row=0, column=1, sticky="nsew", padx=5)
+remove_button = tk.Button(remove_frame, text="Remove Selected Item", pady=20, command=remove_item)
+remove_button.grid(row=0, column=0, sticky="nsew")#, padx=10)
 
 # Create frame for other pricelists
 pricelist_search_frame = tk.Frame(buttons_frame)
@@ -176,7 +175,7 @@ def selectpricelist(pricelist: str):
         pricelist_button2.config(relief="sunken")
     else:
         cwd = os.getcwd()
-        for pricelistfile in os.listdir(cwd + "\pricelists"):
+        for pricelistfile in os.listdir(cwd + "/pricelists"):
             pricelist = pricelistfile.replace(".txt", "")
         pricelist_button1.config(relief="raised")
         pricelist_button2.config(relief="raised")
@@ -188,15 +187,13 @@ pricelist_button2.config(command=lambda : selectpricelist("BACPKG"))
 tree_frame = tk.Frame(parent_frame)
 tree_frame.grid(row=0, column=1, sticky="nsew")
 
-tree = ttk.Treeview(tree_frame, columns=("Line", "Item", "Quantity", "Item Cost", "Total Cost"), show="headings")
-tree.heading("Line", text="Line")
+tree = ttk.Treeview(tree_frame, columns=("Item", "Quantity", "Item Cost", "Total Cost"), show="headings")
 tree.heading("Item", text="Item")
 tree.heading("Quantity", text="Qty")
 tree.heading("Item Cost", text="Cost")
 tree.heading("Total Cost", text="Total Cost")
 
 # Set column widths based on column titles
-tree.column("Line", width=20, minwidth=20)
 tree.column("Item", width=196, minwidth=32)
 tree.column("Quantity", width=20, minwidth=20)
 tree.column("Item Cost", width=32, minwidth=32)
