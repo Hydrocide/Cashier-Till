@@ -63,14 +63,15 @@ def search():
         messagebox.showerror("Item Not Found", "Item code not found")
 
 
-def remove_item_(item_code):
+def remove_item(item_code):
     for child in tree.get_children():
         if tree.item(child, "values")[4] == item_code:
             quantity = int(tree.item(child, "values")[1]) - 1
             if quantity <= 0:
                 tree.delete(child)
             else:
-                tree.item(child, values=(tree.item(child, "values")[0], quantity, tree.item(child, "values")[2], tree.item(child, "values")[2] * quantity, item_code))
+                item_cost = float(tree.item(child, "values")[2])
+                tree.item(child, values=(tree.item(child, "values")[0], quantity, tree.item(child, "values")[2], item_cost * quantity, item_code))
  
 def add_item(item_code):
     item_info = master_item_dict[selection][item_code]
@@ -82,18 +83,18 @@ def add_item(item_code):
             # Item already exists, increase quantity and update total cost
             quantity = int(tree.item(child, "values")[1]) + 1
             total_cost = item_info["cost"] * quantity
-            tree.item(child, values=(desc, quantity, item_info["cost"], total_cost, item_code))  # Add item code to values
+            tree.item(child, values=(desc, quantity, selection, item_info["cost"], total_cost, item_code))  # Add item code to values
             calculate_order_totals()
             return
     # Item does not exist, insert a new entry
-    tree.insert("", "end", values=(desc, 1, item_info["cost"], item_info["cost"], item_code))  # Add item code to values
+    tree.insert("", "end", values=(desc, 1, selection, item_info["cost"], item_info["cost"], item_code))  # Add item code to values
     calculate_order_totals()
 
-def remove_item():
+def remove_selected_item():
     selected_item = tree.selection()  # Get the ID of the selected item
     if selected_item:  # Check if an item is selected
         item_info = tree.item(selected_item, "values")
-        remove_item_(item_info[4])
+        remove_item(item_info[4])
         calculate_order_totals()
     else:
         messagebox.showerror("No Item Selected", "Please select an item to Remove")
@@ -141,6 +142,31 @@ def close_toplevel_windows(event, popup_window):
     if not (popup_x <= x <= popup_bottom_right_x and popup_y <= y <= popup_bottom_right_y):
         popup_window.destroy()
 
+def show_price_list_popup():
+    # Create the popup window
+    popup_window = tk.Toplevel(root)
+    popup_window.title("Select Price List")
+    popup_window.grab_set()  # Make the popup window modal
+
+    # Add label at the top
+    label = tk.Label(popup_window, text="Select a Price List", font=("Arial", 14, "bold"))
+    label.grid(row=0, column=0, columnspan=3, padx=10, pady=10)
+    
+    # Define the list of price lists to display
+    pricelists = [pl for pl in master_item_dict.keys() if pl not in ["LEG", "BACPKG"]]
+
+    # Create buttons for each price list
+    for i, pricelist in enumerate(pricelists):
+        button = tk.Button(popup_window, text=pricelist, padx=20, pady=10, wraplength=150, command=lambda pl=pricelist: selectpricelist(pl, popup_window))
+        button.grid(row=(i // 3)+1, column=i % 3, padx=10, pady=10, sticky="nsew")
+
+    # Configure grid weights for resizing
+    for i in range(len(pricelists)):
+        popup_window.grid_rowconfigure(i // 3, weight=1)
+        popup_window.grid_columnconfigure(i % 3, weight=1)
+
+    # Bind focus event to destroy the popup window when root window receives focus
+    popup_window.bind("<Button-1>", lambda event, popup_window=popup_window: close_toplevel_windows(event, popup_window))
 
 def show_search_popup():
     # Create the popup window
@@ -154,6 +180,8 @@ def show_search_popup():
     popup_window.rowconfigure(2, weight=1)
 
     def search_by_description():
+        description_tree.delete(*description_tree.get_children())
+
         # Get the search query from the entry widget
         query = description_entry.get()
 
@@ -306,15 +334,17 @@ initialize_quickselect()
 tree_frame = tk.Frame(parent_frame)
 tree_frame.grid(row=0, column=1, sticky="nsew", pady=10, padx=10)
 
-tree = ttk.Treeview(tree_frame, columns=("Item", "Quantity", "Item Cost", "Total Cost"), show="headings")
+tree = ttk.Treeview(tree_frame, columns=("Item", "Quantity", "Pricelist", "Item Cost", "Total Cost"), show="headings")
 tree.heading("Item", text="Item")
 tree.heading("Quantity", text="Qty")
+tree.heading("Pricelist", text="P/L")
 tree.heading("Item Cost", text="Cost")
 tree.heading("Total Cost", text="Total Cost")
 
 # Set column widths based on column titles
 tree.column("Item", width=196, minwidth=32)
 tree.column("Quantity", width=20, minwidth=20)
+tree.column("Pricelist", width=20, minwidth=20)
 tree.column("Item Cost", width=32, minwidth=32)
 tree.column("Total Cost", width=48, minwidth=32)
 
@@ -325,19 +355,9 @@ scrollbar = ttk.Scrollbar(tree_frame, orient="vertical", command=tree.yview)
 tree.configure(yscrollcommand=scrollbar.set)
 scrollbar.grid(row=0, column=1, sticky="ns")
 
-
-
-first_four_items = ['LEMACUST', 'LEMTB', 'LEMD2', 'LEMGOB2185', 'LEMGOB2185', 'LEMGOB2185']
-
 # Create frame for buttons
 buttons_frame = tk.Frame(parent_frame)
 buttons_frame.grid(row=0, column=0, sticky="nsew", pady=0, padx=0)
-
-
-# for i, item_code in enumerate(first_four_items):
-#     item_info = master_item_dict[selection][item_code] # not gonna work
-#     button = tk.Button(buttons_frame, text=item_info["name"], padx=20, pady=10, wraplength=150, command=lambda code=item_code: button_clicked(code))
-#     button.grid(row=i%3, column=i//3, sticky="nsew")
 
 kvs = [[k,v] for k,v in master_quickselect_dict.items()]
 for i in range(len(kvs)):
@@ -359,17 +379,17 @@ buttons_frame.rowconfigure(2, weight=1, uniform="buttons_row")
 search_frame = tk.Frame(buttons_frame)
 search_frame.grid(row=3, column=0, columnspan=2, sticky="nsew", pady=10, padx=10)
 
-search_button = tk.Button(search_frame, text="Search", pady=10, command=show_search_popup)
+search_button = tk.Button(search_frame, text="Search via Description", pady=10, command=show_search_popup)
 search_button.grid(row=0, column=0, sticky="nsew", padx=10)
 
-search_entry = tk.Entry(search_frame, width=5)
-search_entry.grid(row=0, column=1, sticky="nsew", padx=5)
+# search_entry = tk.Entry(search_frame, width=5)
+# search_entry.grid(row=0, column=1, sticky="nsew", padx=5)
 
 # Create frame for remove bar
 remove_frame = tk.Frame(buttons_frame, pady=10, padx=10)
 remove_frame.grid(row=4, column=0, columnspan=2, sticky="nsew")
 
-remove_button = tk.Button(remove_frame, text="Remove Selected Item", pady=20, command=remove_item)
+remove_button = tk.Button(remove_frame, text="Remove Selected Item", pady=20, command=remove_selected_item)
 remove_button.grid(row=0, column=0, sticky="nsew")
 
 # Add Selected Item Button
@@ -381,44 +401,50 @@ add_selected_button.grid(row=0, column=1, sticky="nsew")
 pricelist_search_frame = tk.Frame(buttons_frame)
 pricelist_search_frame.grid(row=5, column=0, columnspan=2, sticky="nsew")
 
-pricelist_search_entry = tk.Entry(pricelist_search_frame, width=5)
-pricelist_search_entry.grid(row=0, column=1, sticky="nsew", padx=5)
-
-pricelist_search_button = tk.Button(pricelist_search_frame, text="Pricelist", command=lambda code=pricelist_search_entry.get() : selectpricelist(code))
+pricelist_search_button = tk.Button(pricelist_search_frame, text="Select Another Pricelist", command=show_price_list_popup)
 pricelist_search_button.grid(row=0, column=0, sticky="nsew", padx=10)
 
 # Create frame for pricelist selection
 pricelist_frame = tk.Frame(buttons_frame)
 pricelist_frame.grid(row=6, column=0, columnspan=2, sticky="nsew", pady=10, padx=10)
 
-pricelist_button1 = tk.Button(pricelist_frame, text="LEG", relief="sunken", padx=20)
-pricelist_button1.grid(row=0, column=0, sticky="nsew")
+pricelist_button1 = tk.Button(pricelist_frame, text="LEG", relief="sunken", padx=10)
+pricelist_button1.grid(row=0, column=0, sticky="nsew", ipadx=10, ipady=10)
 
-pricelist_button2 = tk.Button(pricelist_frame, text="BACPKG", relief="raised", padx=20)
-pricelist_button2.grid(row=0, column=1, sticky="nsew")
+pricelist_button2 = tk.Button(pricelist_frame, text="BACPKG", relief="raised", padx=10)
+pricelist_button2.grid(row=0, column=1, sticky="nsew", ipadx=10, ipady=10)
 
-## pricelist_button3 = tk.Button(remove_frame, text="temp", command=remove_item)
-## pricelist_button3.grid(row=0, column=2, sticky="nsew")
+pricelist_button3 = tk.Button(pricelist_frame, text="DFT", relief="raised", padx=10)
+pricelist_button3.grid(row=0, column=2, sticky="nsew", ipadx=10, ipady=10, padx=10)
 
-def selectpricelist(pricelist: str):
+
+def selectpricelist(pricelist: str, popup_window=None):
+    print(pricelist)
     global selection
+    if pricelist not in master_item_dict.keys():
+        return
     if pricelist == "LEG":
         selection = "LEG"
         pricelist_button1.config(relief="sunken")
         pricelist_button2.config(relief="raised")
+        pricelist_button3.config(relief="raised")
     elif pricelist == "BACPKG":
         selection = "BACPKG"
         pricelist_button1.config(relief="raised")
         pricelist_button2.config(relief="sunken")
+        pricelist_button3.config(relief="raised")
     else:
-        cwd = os.getcwd()
-        for pricelistfile in os.listdir(cwd + "/pricelists"):
-            pricelist = pricelistfile.replace(".txt", "")
+        selection = pricelist
+        pricelist_button3.config(text=pricelist)
         pricelist_button1.config(relief="raised")
         pricelist_button2.config(relief="raised")
+        pricelist_button3.config(relief="sunken")
+    if popup_window is not None:
+        popup_window.destroy()
 
-pricelist_button1.config(command=lambda : selectpricelist("LEG"))
-pricelist_button2.config(command=lambda : selectpricelist("BACPKG"))
+pricelist_button1.config(command=lambda : selectpricelist(pricelist_button1.cget("text")))
+pricelist_button2.config(command=lambda : selectpricelist(pricelist_button2.cget("text")))
+pricelist_button3.config(command=lambda : selectpricelist(pricelist_button3.cget("text")))
 
 # Create labels
 labels_frame = tk.Frame(root)
