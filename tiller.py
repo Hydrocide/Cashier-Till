@@ -55,17 +55,17 @@ def button_clicked(item_code):
     else:
         messagebox.showerror("Item Not Found", "Item code not found")
 
-def search():
-    searched_code = search_entry.get()
-    if in_all_codes(searched_code.capitalize()):
-        add_item(searched_code)
-    else:
-        messagebox.showerror("Item Not Found", "Item code not found")
+# def search():
+#     searched_code = search_entry.get()
+#     if in_all_codes(searched_code.capitalize()):
+#         add_item(searched_code)
+#     else:
+#         messagebox.showerror("Item Not Found", "Item code not found")
 
 
 def remove_item(item_code):
     for child in tree.get_children():
-        if tree.item(child, "values")[4] == item_code:
+        if tree.item(child, "values")[5] == item_code:
             quantity = int(tree.item(child, "values")[1]) - 1
             if quantity <= 0:
                 tree.delete(child)
@@ -103,7 +103,7 @@ def add_additional_item():
     selected_item = tree.selection()
     if selected_item:
         item_info = tree.item(selected_item, "values")
-        add_item(item_info[4])
+        add_item(item_info[5])
         calculate_order_totals()
     else:
         messagebox.showerror("No Item Selected", "Please select an item to Add")
@@ -111,7 +111,7 @@ def add_additional_item():
 def calculate_order_totals():
     subtotal = 0
     for child in tree.get_children():
-        subtotal += float(tree.item(child, "values")[3])
+        subtotal += float(tree.item(child, "values")[4])
     tax = subtotal * TAX_RATE
     total = subtotal + tax
     subtotal_label.config(text=f"Order Subtotal: ${subtotal:.2f}")
