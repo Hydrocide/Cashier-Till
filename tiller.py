@@ -113,7 +113,8 @@ def edit_selected_item(old: tuple[str], new: tuple[str]):
     if old:
         for child in tree.get_children():
             if tree.item(child, "values") == old:
-                tree.item(child, values=new)
+                tree.item(child, values=(new[0], new[1], new[2], new[3], new[4], new[5]))
+                #tree.item(child, values=new)
                 calculate_order_totals()
                 return
     else:
@@ -154,6 +155,7 @@ def close_toplevel_windows(event, popup_window):
         popup_window.destroy()
 
 def show_edit_popup(child: tuple[str]):
+    child_data = tree.item(child, "values")
     # Create the popup window
     popup_window = tk.Toplevel(root)
     popup_window.title("Edit Item")
@@ -163,7 +165,7 @@ def show_edit_popup(child: tuple[str]):
     label = tk.Label(popup_window, text="Edit Neccessary Values", font=("Arial", 14, "bold"))
     label.grid(row=0, column=0, columnspan=3, padx=10, pady=10)
 
-    #tree.item(child, values=(tree.item(child, "values")[0], quantity, tree.item(child, "values")[2], tree.item(child, "values")[3], item_cost * quantity, item_code))
+    #tree.item(child_data, values=(tree.item(child_data, "values")[0], quantity, tree.item(child_data, "values")[2], tree.item(child_data, "values")[3], item_cost * quantity, item_code))
 
     item_frame = tk.Frame(popup_window)
     item_frame.grid(row=1, column=0, columnspan=2, sticky="nsew", pady=10, padx=10)
@@ -172,15 +174,16 @@ def show_edit_popup(child: tuple[str]):
     entries = []
 
 
-    for i in displayvalues:
-        label = tk.Label(item_frame, text=child[i], padx=20, pady=10, wraplength=150)
-        entry = tk.Entry(item_frame, text=child[i], wraplength=150)
-        label.grid(row=0, column=i, padx=10, pady=10, sticky="nsew")
-        entry.grid(row=1, column=i, padx=10, pady=10, sticky="nsew")
+    for i in range(len(displayvalues)):
+        label = tk.Label(item_frame, text=child_data[displayvalues[i]], padx=20, pady=10)
+        entry = tk.Entry(item_frame, text=child_data[displayvalues[i]])
+        entry.insert(0, child_data[displayvalues[i]])
+        label.grid(row=1, column=i, padx=10, pady=10, sticky="nsew")
+        entry.grid(row=2, column=i, padx=10, pady=10, sticky="nsew")
         entries.append(entry)
     
     def get_new_vals() -> tuple[str]:
-        newvalues = child[:]
+        newvalues = child_data[:]
         for i, entry in zip(displayvalues, entries):
             newvalues[i] = entry.get()
         return newvalues
@@ -191,7 +194,7 @@ def show_edit_popup(child: tuple[str]):
 
         
     confirm_button = ttk.Button(popup_window, text="Confirm", command=popup_loop)
-    confirm_button.grid(row=2, column=0, sticky="nsew", pady=10, padx=10)
+    confirm_button.grid(row=3, column=0, sticky="nsew", pady=10, padx=10, columnspan=len(displayvalues))
 
     # Bind focus event to destroy the popup window when root window receives focus
     popup_window.bind("<Button-1>", lambda event, popup_window=popup_window: close_toplevel_windows(event, popup_window))
@@ -206,7 +209,6 @@ def show_barcode_scanner_popup():
     label = tk.Label(popup_window, text="Select a Price List", font=("Arial", 14, "bold"))
     label.grid(row=0, column=0, columnspan=3, padx=10, pady=10)
     
-
 def show_price_list_popup():
     # Create the popup window
     popup_window = tk.Toplevel(root)
