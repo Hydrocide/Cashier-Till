@@ -13,7 +13,8 @@ if os.environ.get('DISPLAY','') == '':
     #print('no display found. Using :0.0')
     os.environ.__setitem__('DISPLAY', ':0.0')
 
-os.chdir("/home/pi/Desktop/Cashier-Till")
+if os.name == "posix":
+    os.chdir("/home/pi/Desktop/Cashier-Till")
 
 #### FINISH SETUP ####
 
@@ -70,8 +71,8 @@ def remove_item(item_code):
             if quantity <= 0:
                 tree.delete(child)
             else:
-                item_cost = float(tree.item(child, "values")[2])
-                tree.item(child, values=(tree.item(child, "values")[0], quantity, tree.item(child, "values")[2], item_cost * quantity, item_code))
+                item_cost = float(tree.item(child, "values")[3])
+                tree.item(child, values=(tree.item(child, "values")[0], quantity, tree.item(child, "values")[2], tree.item(child, "values")[3], item_cost * quantity, item_code))
  
 def add_item(item_code):
     item_info = master_item_dict[selection][item_code]
@@ -94,7 +95,7 @@ def remove_selected_item():
     selected_item = tree.selection()  # Get the ID of the selected item
     if selected_item:  # Check if an item is selected
         item_info = tree.item(selected_item, "values")
-        remove_item(item_info[4])
+        remove_item(item_info[5])
         calculate_order_totals()
     else:
         messagebox.showerror("No Item Selected", "Please select an item to Remove")
@@ -105,6 +106,16 @@ def add_additional_item():
         item_info = tree.item(selected_item, "values")
         add_item(item_info[5])
         calculate_order_totals()
+    else:
+        messagebox.showerror("No Item Selected", "Please select an item to Add")
+
+def edit_selected_item(old: tuple[str], new: tuple[str]):
+    if old:
+        for child in tree.get_children():
+            if tree.item(child, "values") == old:
+                tree.item(child, values=new)
+                calculate_order_totals()
+                return
     else:
         messagebox.showerror("No Item Selected", "Please select an item to Add")
 
@@ -141,6 +152,60 @@ def close_toplevel_windows(event, popup_window):
     # Check if the click occurred outside of the popup window boundaries
     if not (popup_x <= x <= popup_bottom_right_x and popup_y <= y <= popup_bottom_right_y):
         popup_window.destroy()
+
+def show_edit_popup(child: tuple[str]):
+    # Create the popup window
+    popup_window = tk.Toplevel(root)
+    popup_window.title("Edit Item")
+    popup_window.grab_set()  # Make the popup window modal
+
+    # Add label at the top
+    label = tk.Label(popup_window, text="Edit Neccessary Values", font=("Arial", 14, "bold"))
+    label.grid(row=0, column=0, columnspan=3, padx=10, pady=10)
+
+    #tree.item(child, values=(tree.item(child, "values")[0], quantity, tree.item(child, "values")[2], tree.item(child, "values")[3], item_cost * quantity, item_code))
+
+    item_frame = tk.Frame(popup_window)
+    item_frame.grid(row=1, column=0, columnspan=2, sticky="nsew", pady=10, padx=10)
+
+    displayvalues = [0, 2, 3]
+    entries = []
+
+
+    for i in displayvalues:
+        label = tk.Label(item_frame, text=child[i], padx=20, pady=10, wraplength=150)
+        entry = tk.Entry(item_frame, text=child[i], wraplength=150)
+        label.grid(row=0, column=i, padx=10, pady=10, sticky="nsew")
+        entry.grid(row=1, column=i, padx=10, pady=10, sticky="nsew")
+        entries.append(entry)
+    
+    def get_new_vals() -> tuple[str]:
+        newvalues = child[:]
+        for i, entry in zip(displayvalues, entries):
+            newvalues[i] = entry.get()
+        return newvalues
+    
+    def popup_loop():
+        edit_selected_item(child, get_new_vals())
+        popup_window.destroy()
+
+        
+    confirm_button = ttk.Button(popup_window, text="Confirm", command=popup_loop)
+    confirm_button.grid(row=2, column=0, sticky="nsew", pady=10, padx=10)
+
+    # Bind focus event to destroy the popup window when root window receives focus
+    popup_window.bind("<Button-1>", lambda event, popup_window=popup_window: close_toplevel_windows(event, popup_window))
+
+def show_barcode_scanner_popup():
+    # Create the popup window
+    popup_window = tk.Toplevel(root)
+    popup_window.title("Scan Barcode")
+    popup_window.grab_set()  # Make the popup window modal
+
+    # Add label at the top
+    label = tk.Label(popup_window, text="Select a Price List", font=("Arial", 14, "bold"))
+    label.grid(row=0, column=0, columnspan=3, padx=10, pady=10)
+    
 
 def show_price_list_popup():
     # Create the popup window
@@ -367,7 +432,7 @@ for i in range(len(kvs)):
     # button = tk.Button(buttons_frame, text=item_name, padx=20, pady=10, wraplength=150, command=lambda code=(kvs[i][1], item_name): create_popup_for_dict(*code))
     button.grid(row=i%3, column=i//3, sticky="nsew")
 
-# # Configure grid weights for resizing
+### # Configure grid weights for resizing
 buttons_frame.columnconfigure(0, weight=1, uniform="buttons_col")
 buttons_frame.columnconfigure(1, weight=1, uniform="buttons_col")
 buttons_frame.rowconfigure(0, weight=1, uniform="buttons_row")
@@ -375,17 +440,24 @@ buttons_frame.rowconfigure(1, weight=1, uniform="buttons_row")
 buttons_frame.rowconfigure(2, weight=1, uniform="buttons_row")
 
 
-# Create frame for search bar
+### Create frame for search bar and adding other items
 search_frame = tk.Frame(buttons_frame)
 search_frame.grid(row=3, column=0, columnspan=2, sticky="nsew", pady=10, padx=10)
+
 
 search_button = tk.Button(search_frame, text="Search via Description", pady=10, command=show_search_popup)
 search_button.grid(row=0, column=0, sticky="nsew", padx=10)
 
-# search_entry = tk.Entry(search_frame, width=5)
-# search_entry.grid(row=0, column=1, sticky="nsew", padx=5)
+#add item by item code
+search_entry = tk.Entry(search_frame, width=5)
+search_entry.grid(row=1, column=1, sticky="nsew", padx=5)
 
-# Create frame for remove bar
+add_code_button = tk.Button(search_frame, text="Add Code", pady=10, command=lambda : button_clicked(search_entry.get()))
+add_code_button.grid(row=0, column=1, sticky="nsew", padx=10)
+
+
+
+### Create frame for remove bar
 remove_frame = tk.Frame(buttons_frame, pady=10, padx=10)
 remove_frame.grid(row=4, column=0, columnspan=2, sticky="nsew")
 
@@ -396,15 +468,18 @@ remove_button.grid(row=0, column=0, sticky="nsew")
 add_selected_button = tk.Button(remove_frame, text="Add Selected Item", pady=20, command=add_additional_item)
 add_selected_button.grid(row=0, column=1, sticky="nsew")
 
+#edit item
+edit_item_button = tk.Button(remove_frame, text="Edit Selected Item", pady=20, command=lambda : show_edit_popup(tree.selection()))
+edit_item_button.grid(row=1, column=0, sticky="nsew", columnspan=2)
 
-# Create frame for other pricelists
+### Create frame for other pricelists
 pricelist_search_frame = tk.Frame(buttons_frame)
 pricelist_search_frame.grid(row=5, column=0, columnspan=2, sticky="nsew")
 
 pricelist_search_button = tk.Button(pricelist_search_frame, text="Select Another Pricelist", command=show_price_list_popup)
 pricelist_search_button.grid(row=0, column=0, sticky="nsew", padx=10)
 
-# Create frame for pricelist selection
+### Create frame for pricelist selection
 pricelist_frame = tk.Frame(buttons_frame)
 pricelist_frame.grid(row=6, column=0, columnspan=2, sticky="nsew", pady=10, padx=10)
 
